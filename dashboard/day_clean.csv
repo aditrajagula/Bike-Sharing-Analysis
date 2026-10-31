@@ -1,0 +1,732 @@
+dteday,season_label,weather_label,year_label,day_type,temp_celsius,atemp_celsius,humidity_pct,windspeed_kmh,casual,registered,cnt,demand_category
+2011-01-01,Spring,Mist / Cloudy,2011,Weekend / Holiday,14.11,18.18,80.58,10.75,331,654,985,Low Demand
+2011-01-02,Spring,Mist / Cloudy,2011,Weekend / Holiday,14.9,17.69,69.61,16.65,131,670,801,Low Demand
+2011-01-03,Spring,Clear / Partly Cloudy,2011,Working Day,8.05,9.47,43.73,16.64,120,1229,1349,Low Demand
+2011-01-04,Spring,Clear / Partly Cloudy,2011,Working Day,8.2,10.61,59.04,10.74,108,1454,1562,Low Demand
+2011-01-05,Spring,Clear / Partly Cloudy,2011,Working Day,9.31,11.46,43.7,12.52,82,1518,1600,Low Demand
+2011-01-06,Spring,Clear / Partly Cloudy,2011,Working Day,8.38,11.66,51.83,6.0,88,1518,1606,Low Demand
+2011-01-07,Spring,Mist / Cloudy,2011,Working Day,8.06,10.44,49.87,11.3,148,1362,1510,Low Demand
+2011-01-08,Spring,Mist / Cloudy,2011,Weekend / Holiday,6.76,8.11,53.58,17.88,68,891,959,Low Demand
+2011-01-09,Spring,Clear / Partly Cloudy,2011,Weekend / Holiday,5.67,5.81,43.42,24.25,54,768,822,Low Demand
+2011-01-10,Spring,Clear / Partly Cloudy,2011,Working Day,6.18,7.54,48.29,14.96,41,1280,1321,Low Demand
+2011-01-11,Spring,Mist / Cloudy,2011,Working Day,6.93,9.57,68.64,8.18,43,1220,1263,Low Demand
+2011-01-12,Spring,Clear / Partly Cloudy,2011,Working Day,7.08,8.02,59.95,20.41,25,1137,1162,Low Demand
+2011-01-13,Spring,Clear / Partly Cloudy,2011,Working Day,6.76,7.54,47.04,20.17,38,1368,1406,Low Demand
+2011-01-14,Spring,Clear / Partly Cloudy,2011,Working Day,6.6,9.42,53.78,8.48,54,1367,1421,Low Demand
+2011-01-15,Spring,Mist / Cloudy,2011,Weekend / Holiday,9.57,12.41,49.88,10.58,222,1026,1248,Low Demand
+2011-01-16,Spring,Clear / Partly Cloudy,2011,Weekend / Holiday,9.5,11.71,48.38,12.63,251,953,1204,Low Demand
+2011-01-17,Spring,Mist / Cloudy,2011,Weekend / Holiday,7.21,8.84,53.75,13.0,117,883,1000,Low Demand
+2011-01-18,Spring,Mist / Cloudy,2011,Working Day,8.88,11.62,86.17,9.83,9,674,683,Low Demand
+2011-01-19,Spring,Mist / Cloudy,2011,Working Day,11.98,14.92,74.17,13.96,78,1572,1650,Low Demand
+2011-01-20,Spring,Mist / Cloudy,2011,Working Day,10.73,12.75,53.83,13.13,83,1844,1927,Low Demand
+2011-01-21,Spring,Clear / Partly Cloudy,2011,Working Day,7.28,7.89,45.71,23.67,75,1468,1543,Low Demand
+2011-01-22,Spring,Clear / Partly Cloudy,2011,Weekend / Holiday,2.42,3.95,40.0,11.52,93,888,981,Low Demand
+2011-01-23,Spring,Clear / Partly Cloudy,2011,Weekend / Holiday,3.96,4.94,43.65,16.52,150,836,986,Low Demand
+2011-01-24,Spring,Clear / Partly Cloudy,2011,Working Day,3.99,5.9,49.17,10.61,86,1330,1416,Low Demand
+2011-01-25,Spring,Mist / Cloudy,2011,Working Day,9.16,11.73,61.7,8.7,186,1799,1985,Low Demand
+2011-01-26,Spring,Light Snow / Rain,2011,Working Day,8.92,10.18,86.25,19.69,34,472,506,Low Demand
+2011-01-27,Spring,Clear / Partly Cloudy,2011,Working Day,8.0,10.98,68.75,7.63,15,416,431,Low Demand
+2011-01-28,Spring,Mist / Cloudy,2011,Working Day,8.34,11.17,79.3,8.26,38,1129,1167,Low Demand
+2011-01-29,Spring,Clear / Partly Cloudy,2011,Weekend / Holiday,8.06,10.61,65.17,9.74,123,975,1098,Low Demand
+2011-01-30,Spring,Clear / Partly Cloudy,2011,Weekend / Holiday,8.88,12.52,72.22,4.96,140,956,1096,Low Demand
+2011-01-31,Spring,Mist / Cloudy,2011,Working Day,7.41,9.31,60.38,12.54,42,1459,1501,Low Demand
+2011-02-01,Spring,Mist / Cloudy,2011,Working Day,7.88,11.73,82.96,3.57,47,1313,1360,Low Demand
+2011-02-02,Spring,Mist / Cloudy,2011,Working Day,10.66,12.72,77.54,17.71,72,1454,1526,Low Demand
+2011-02-03,Spring,Clear / Partly Cloudy,2011,Working Day,7.67,8.89,43.78,18.61,61,1489,1550,Low Demand
+2011-02-04,Spring,Mist / Cloudy,2011,Working Day,8.66,11.43,58.52,8.57,88,1620,1708,Low Demand
+2011-02-05,Spring,Mist / Cloudy,2011,Weekend / Holiday,9.57,12.15,92.92,10.79,100,905,1005,Low Demand
+2011-02-06,Spring,Clear / Partly Cloudy,2011,Weekend / Holiday,11.72,14.58,56.83,9.5,354,1269,1623,Low Demand
+2011-02-07,Spring,Clear / Partly Cloudy,2011,Working Day,11.14,15.18,73.83,3.04,120,1592,1712,Low Demand
+2011-02-08,Spring,Clear / Partly Cloudy,2011,Working Day,9.05,9.91,53.79,24.25,64,1466,1530,Low Demand
+2011-02-09,Spring,Mist / Cloudy,2011,Working Day,5.53,7.21,49.48,12.65,53,1552,1605,Low Demand
+2011-02-10,Spring,Clear / Partly Cloudy,2011,Working Day,5.92,7.48,43.74,14.87,47,1491,1538,Low Demand
+2011-02-11,Spring,Clear / Partly Cloudy,2011,Working Day,7.75,10.68,50.64,7.27,149,1597,1746,Low Demand
+2011-02-12,Spring,Clear / Partly Cloudy,2011,Weekend / Holiday,9.12,11.65,54.42,13.63,288,1184,1472,Low Demand
+2011-02-13,Spring,Clear / Partly Cloudy,2011,Weekend / Holiday,12.98,16.21,45.74,17.48,397,1192,1589,Low Demand
+2011-02-14,Spring,Clear / Partly Cloudy,2011,Working Day,17.02,19.92,37.58,28.0,208,1705,1913,Low Demand
+2011-02-15,Spring,Clear / Partly Cloudy,2011,Working Day,10.91,12.71,31.43,19.52,140,1675,1815,Low Demand
+2011-02-16,Spring,Clear / Partly Cloudy,2011,Working Day,13.05,15.81,42.35,16.87,218,1897,2115,Low Demand
+2011-02-17,Spring,Clear / Partly Cloudy,2011,Working Day,17.87,21.43,50.5,15.42,259,2216,2475,Low Demand
+2011-02-18,Spring,Clear / Partly Cloudy,2011,Working Day,21.39,25.6,51.67,17.75,579,2348,2927,Low Demand
+2011-02-19,Spring,Clear / Partly Cloudy,2011,Weekend / Holiday,16.37,19.57,18.79,34.0,532,1103,1635,Low Demand
+2011-02-20,Spring,Clear / Partly Cloudy,2011,Weekend / Holiday,11.69,13.87,40.78,14.96,639,1173,1812,Low Demand
+2011-02-21,Spring,Mist / Cloudy,2011,Weekend / Holiday,12.44,14.2,60.5,20.63,195,912,1107,Low Demand
+2011-02-22,Spring,Clear / Partly Cloudy,2011,Working Day,7.47,9.3,57.78,13.11,74,1376,1450,Low Demand
+2011-02-23,Spring,Clear / Partly Cloudy,2011,Working Day,9.09,12.29,42.3,6.31,139,1778,1917,Low Demand
+2011-02-24,Spring,Mist / Cloudy,2011,Working Day,12.12,14.46,69.74,16.78,100,1707,1807,Low Demand
+2011-02-25,Spring,Mist / Cloudy,2011,Working Day,14.94,17.52,71.22,23.22,120,1341,1461,Low Demand
+2011-02-26,Spring,Clear / Partly Cloudy,2011,Weekend / Holiday,11.58,14.11,53.79,12.5,424,1545,1969,Low Demand
+2011-02-27,Spring,Clear / Partly Cloudy,2011,Weekend / Holiday,14.08,17.56,68.0,8.39,694,1708,2402,Low Demand
+2011-02-28,Spring,Mist / Cloudy,2011,Working Day,16.7,20.01,87.64,19.41,81,1365,1446,Low Demand
+2011-03-01,Spring,Clear / Partly Cloudy,2011,Working Day,10.93,13.19,53.5,14.5,137,1714,1851,Low Demand
+2011-03-02,Spring,Clear / Partly Cloudy,2011,Working Day,13.74,16.0,44.96,20.62,231,1903,2134,Low Demand
+2011-03-03,Spring,Clear / Partly Cloudy,2011,Working Day,8.13,10.01,31.83,15.13,123,1562,1685,Low Demand
+2011-03-04,Spring,Mist / Cloudy,2011,Working Day,10.73,12.78,61.04,13.62,214,1730,1944,Low Demand
+2011-03-05,Spring,Mist / Cloudy,2011,Weekend / Holiday,15.75,18.94,78.92,16.88,640,1437,2077,Low Demand
+2011-03-06,Spring,Mist / Cloudy,2011,Weekend / Holiday,15.44,18.31,94.83,23.0,114,491,605,Low Demand
+2011-03-07,Spring,Clear / Partly Cloudy,2011,Working Day,10.73,11.92,55.13,22.87,244,1628,1872,Low Demand
+2011-03-08,Spring,Clear / Partly Cloudy,2011,Working Day,11.99,15.12,42.08,8.08,316,1817,2133,Low Demand
+2011-03-09,Spring,Mist / Cloudy,2011,Working Day,12.13,14.33,77.54,14.75,191,1700,1891,Low Demand
+2011-03-10,Spring,Light Snow / Rain,2011,Working Day,15.95,19.28,0.0,17.55,46,577,623,Low Demand
+2011-03-11,Spring,Mist / Cloudy,2011,Working Day,12.98,15.25,64.96,15.61,247,1730,1977,Low Demand
+2011-03-12,Spring,Clear / Partly Cloudy,2011,Weekend / Holiday,13.5,16.29,59.46,14.79,724,1408,2132,Low Demand
+2011-03-13,Spring,Clear / Partly Cloudy,2011,Weekend / Holiday,15.76,19.0,52.74,18.13,982,1435,2417,Low Demand
+2011-03-14,Spring,Clear / Partly Cloudy,2011,Working Day,13.33,16.6,49.7,9.17,359,1687,2046,Low Demand
+2011-03-15,Spring,Mist / Cloudy,2011,Working Day,13.01,15.91,65.57,12.35,289,1767,2056,Low Demand
+2011-03-16,Spring,Mist / Cloudy,2011,Working Day,14.97,18.35,77.65,13.61,321,1871,2192,Low Demand
+2011-03-17,Spring,Clear / Partly Cloudy,2011,Working Day,17.02,20.52,60.29,14.04,424,2320,2744,Low Demand
+2011-03-18,Spring,Clear / Partly Cloudy,2011,Working Day,22.14,26.35,52.52,15.48,884,2355,3239,Medium Demand
+2011-03-19,Spring,Clear / Partly Cloudy,2011,Weekend / Holiday,19.37,23.33,37.92,24.67,1424,1693,3117,Low Demand
+2011-03-20,Spring,Clear / Partly Cloudy,2011,Weekend / Holiday,13.63,16.29,47.38,13.92,1047,1424,2471,Low Demand
+2011-03-21,Summer,Mist / Cloudy,2011,Working Day,17.65,20.49,73.74,19.35,401,1676,2077,Low Demand
+2011-03-22,Summer,Clear / Partly Cloudy,2011,Working Day,18.11,22.03,62.46,15.13,460,2243,2703,Low Demand
+2011-03-23,Summer,Mist / Cloudy,2011,Working Day,14.23,16.9,83.96,15.7,203,1918,2121,Low Demand
+2011-03-24,Summer,Mist / Cloudy,2011,Working Day,11.68,13.54,80.58,16.33,166,1699,1865,Low Demand
+2011-03-25,Summer,Clear / Partly Cloudy,2011,Working Day,10.83,12.82,49.5,15.46,300,1910,2210,Low Demand
+2011-03-26,Summer,Clear / Partly Cloudy,2011,Weekend / Holiday,10.9,12.88,39.42,14.04,981,1515,2496,Low Demand
+2011-03-27,Summer,Mist / Cloudy,2011,Weekend / Holiday,10.37,12.52,49.39,12.35,472,1221,1693,Low Demand
+2011-03-28,Summer,Clear / Partly Cloudy,2011,Working Day,10.84,12.88,30.22,14.22,222,1806,2028,Low Demand
+2011-03-29,Summer,Clear / Partly Cloudy,2011,Working Day,12.4,14.65,31.42,15.21,317,2108,2425,Low Demand
+2011-03-30,Summer,Mist / Cloudy,2011,Working Day,12.3,14.87,64.67,11.58,168,1368,1536,Low Demand
+2011-03-31,Summer,Light Snow / Rain,2011,Working Day,11.0,12.88,91.83,14.58,179,1506,1685,Low Demand
+2011-04-01,Summer,Mist / Cloudy,2011,Working Day,12.3,14.17,68.62,17.33,307,1920,2227,Low Demand
+2011-04-02,Summer,Mist / Cloudy,2011,Weekend / Holiday,12.92,15.78,65.38,13.21,898,1354,2252,Low Demand
+2011-04-03,Summer,Clear / Partly Cloudy,2011,Weekend / Holiday,15.51,18.94,48.0,12.21,1651,1598,3249,Medium Demand
+2011-04-04,Summer,Clear / Partly Cloudy,2011,Working Day,23.51,27.15,42.62,25.83,734,2381,3115,Low Demand
+2011-04-05,Summer,Mist / Cloudy,2011,Working Day,16.98,19.92,64.21,26.0,167,1628,1795,Low Demand
+2011-04-06,Summer,Clear / Partly Cloudy,2011,Working Day,16.02,19.38,47.08,17.63,413,2395,2808,Low Demand
+2011-04-07,Summer,Clear / Partly Cloudy,2011,Working Day,17.94,21.68,60.29,10.87,571,2570,3141,Low Demand
+2011-04-08,Summer,Mist / Cloudy,2011,Working Day,13.77,16.22,83.62,15.21,172,1299,1471,Low Demand
+2011-04-09,Summer,Mist / Cloudy,2011,Weekend / Holiday,14.04,17.08,87.75,8.92,879,1576,2455,Low Demand
+2011-04-10,Summer,Mist / Cloudy,2011,Weekend / Holiday,17.49,21.34,85.75,9.83,1188,1707,2895,Low Demand
+2011-04-11,Summer,Mist / Cloudy,2011,Working Day,24.42,28.26,71.7,21.74,855,2493,3348,Medium Demand
+2011-04-12,Summer,Mist / Cloudy,2011,Working Day,20.6,24.65,73.92,18.42,257,1777,2034,Low Demand
+2011-04-13,Summer,Mist / Cloudy,2011,Working Day,16.91,20.86,81.92,16.79,209,1953,2162,Low Demand
+2011-04-14,Summer,Clear / Partly Cloudy,2011,Working Day,19.17,23.14,54.04,7.42,529,2738,3267,Medium Demand
+2011-04-15,Summer,Clear / Partly Cloudy,2011,Weekend / Holiday,18.31,22.1,67.12,15.17,642,2484,3126,Low Demand
+2011-04-16,Summer,Light Snow / Rain,2011,Weekend / Holiday,17.66,21.27,88.83,22.83,121,674,795,Low Demand
+2011-04-17,Summer,Clear / Partly Cloudy,2011,Weekend / Holiday,18.72,22.28,47.96,20.33,1558,2186,3744,Medium Demand
+2011-04-18,Summer,Clear / Partly Cloudy,2011,Working Day,21.01,25.16,54.25,10.96,669,2760,3429,Medium Demand
+2011-04-19,Summer,Mist / Cloudy,2011,Working Day,20.74,24.46,66.58,10.58,409,2795,3204,Medium Demand
+2011-04-20,Summer,Clear / Partly Cloudy,2011,Working Day,24.4,28.22,61.42,16.21,613,3331,3944,Medium Demand
+2011-04-21,Summer,Clear / Partly Cloudy,2011,Working Day,18.83,22.69,40.71,21.79,745,3444,4189,Medium Demand
+2011-04-22,Summer,Mist / Cloudy,2011,Working Day,13.8,16.1,72.96,14.71,177,1506,1683,Low Demand
+2011-04-23,Summer,Mist / Cloudy,2011,Weekend / Holiday,18.86,22.51,88.79,15.46,1462,2574,4036,Medium Demand
+2011-04-24,Summer,Mist / Cloudy,2011,Weekend / Holiday,23.85,27.59,81.08,12.88,1710,2481,4191,Medium Demand
+2011-04-25,Summer,Clear / Partly Cloudy,2011,Working Day,24.87,28.72,77.67,12.42,773,3300,4073,Medium Demand
+2011-04-26,Summer,Clear / Partly Cloudy,2011,Working Day,25.9,29.7,72.92,21.88,678,3722,4400,Medium Demand
+2011-04-27,Summer,Mist / Cloudy,2011,Working Day,25.42,28.76,83.54,20.92,547,3325,3872,Medium Demand
+2011-04-28,Summer,Mist / Cloudy,2011,Working Day,25.32,28.95,70.08,21.5,569,3489,4058,Medium Demand
+2011-04-29,Summer,Clear / Partly Cloudy,2011,Working Day,20.91,24.87,45.71,16.08,878,3717,4595,Medium Demand
+2011-04-30,Summer,Clear / Partly Cloudy,2011,Weekend / Holiday,19.37,23.2,50.33,15.75,1965,3347,5312,Medium Demand
+2011-05-01,Summer,Mist / Cloudy,2011,Weekend / Holiday,18.52,22.41,76.21,7.13,1138,2213,3351,Medium Demand
+2011-05-02,Summer,Mist / Cloudy,2011,Working Day,22.52,26.64,73.0,12.29,847,3554,4401,Medium Demand
+2011-05-03,Summer,Mist / Cloudy,2011,Working Day,25.28,29.1,69.71,22.96,603,3848,4451,Medium Demand
+2011-05-04,Summer,Mist / Cloudy,2011,Working Day,16.98,20.23,73.71,22.04,255,2378,2633,Low Demand
+2011-05-05,Summer,Clear / Partly Cloudy,2011,Working Day,18.83,22.1,44.42,19.79,614,3819,4433,Medium Demand
+2011-05-06,Summer,Clear / Partly Cloudy,2011,Working Day,19.65,23.71,59.0,15.29,894,3714,4608,Medium Demand
+2011-05-07,Summer,Clear / Partly Cloudy,2011,Weekend / Holiday,21.32,25.63,54.12,10.75,1612,3102,4714,Medium Demand
+2011-05-08,Summer,Clear / Partly Cloudy,2011,Weekend / Holiday,21.66,25.95,63.17,5.0,1401,2932,4333,Medium Demand
+2011-05-09,Summer,Clear / Partly Cloudy,2011,Working Day,21.83,26.26,58.88,11.79,664,3698,4362,Medium Demand
+2011-05-10,Summer,Clear / Partly Cloudy,2011,Working Day,21.83,26.14,48.92,7.75,694,4109,4803,Medium Demand
+2011-05-11,Summer,Clear / Partly Cloudy,2011,Working Day,22.24,26.42,63.29,8.08,550,3632,4182,Medium Demand
+2011-05-12,Summer,Clear / Partly Cloudy,2011,Working Day,21.94,26.17,74.75,12.71,695,4169,4864,Medium Demand
+2011-05-13,Summer,Mist / Cloudy,2011,Working Day,21.01,24.72,86.33,12.04,692,3413,4105,Medium Demand
+2011-05-14,Summer,Mist / Cloudy,2011,Weekend / Holiday,21.35,25.03,92.25,9.04,902,2507,3409,Medium Demand
+2011-05-15,Summer,Mist / Cloudy,2011,Weekend / Holiday,23.06,26.8,86.71,10.25,1582,2971,4553,Medium Demand
+2011-05-16,Summer,Clear / Partly Cloudy,2011,Working Day,23.68,27.53,78.79,8.5,773,3185,3958,Medium Demand
+2011-05-17,Summer,Mist / Cloudy,2011,Working Day,23.03,26.93,83.79,18.58,678,3445,4123,Medium Demand
+2011-05-18,Summer,Mist / Cloudy,2011,Working Day,22.55,26.36,87.0,13.5,536,3319,3855,Medium Demand
+2011-05-19,Summer,Mist / Cloudy,2011,Working Day,21.76,25.54,82.96,7.25,735,3840,4575,Medium Demand
+2011-05-20,Summer,Clear / Partly Cloudy,2011,Working Day,22.0,26.45,71.96,8.38,909,4008,4917,Medium Demand
+2011-05-21,Summer,Clear / Partly Cloudy,2011,Weekend / Holiday,24.7,28.6,62.67,8.08,2258,3547,5805,Medium Demand
+2011-05-22,Summer,Clear / Partly Cloudy,2011,Weekend / Holiday,24.77,28.72,74.96,9.92,1576,3084,4660,Medium Demand
+2011-05-23,Summer,Mist / Cloudy,2011,Working Day,25.9,29.51,81.0,15.67,836,3438,4274,Medium Demand
+2011-05-24,Summer,Mist / Cloudy,2011,Working Day,27.06,30.24,74.08,13.88,659,3833,4492,Medium Demand
+2011-05-25,Summer,Clear / Partly Cloudy,2011,Working Day,27.09,30.78,69.62,10.33,740,4238,4978,Medium Demand
+2011-05-26,Summer,Clear / Partly Cloudy,2011,Working Day,29.04,32.73,67.75,13.38,758,3919,4677,Medium Demand
+2011-05-27,Summer,Clear / Partly Cloudy,2011,Working Day,27.95,31.85,65.38,16.13,871,3808,4679,Medium Demand
+2011-05-28,Summer,Clear / Partly Cloudy,2011,Weekend / Holiday,26.89,30.62,72.96,15.42,2001,2757,4758,Medium Demand
+2011-05-29,Summer,Clear / Partly Cloudy,2011,Weekend / Holiday,27.37,30.78,81.88,14.33,2355,2433,4788,Medium Demand
+2011-05-30,Summer,Clear / Partly Cloudy,2011,Weekend / Holiday,30.07,33.55,68.5,8.79,1549,2549,4098,Medium Demand
+2011-05-31,Summer,Clear / Partly Cloudy,2011,Working Day,31.78,36.27,63.67,7.46,673,3309,3982,Medium Demand
+2011-06-01,Summer,Mist / Cloudy,2011,Working Day,31.33,36.05,67.71,13.88,513,3461,3974,Medium Demand
+2011-06-02,Summer,Clear / Partly Cloudy,2011,Working Day,29.32,32.2,30.5,19.58,736,4232,4968,Medium Demand
+2011-06-03,Summer,Clear / Partly Cloudy,2011,Working Day,25.42,29.36,35.42,16.96,898,4414,5312,Medium Demand
+2011-06-04,Summer,Clear / Partly Cloudy,2011,Weekend / Holiday,26.04,29.73,45.62,8.25,1869,3473,5342,Medium Demand
+2011-06-05,Summer,Mist / Cloudy,2011,Weekend / Holiday,26.58,30.84,65.25,9.29,1685,3221,4906,Medium Demand
+2011-06-06,Summer,Clear / Partly Cloudy,2011,Working Day,27.81,31.09,60.0,8.17,673,3875,4548,Medium Demand
+2011-06-07,Summer,Clear / Partly Cloudy,2011,Working Day,29.01,32.8,59.79,12.58,763,4070,4833,Medium Demand
+2011-06-08,Summer,Clear / Partly Cloudy,2011,Working Day,31.81,36.36,62.21,9.17,676,3725,4401,Medium Demand
+2011-06-09,Summer,Mist / Cloudy,2011,Working Day,33.14,37.88,56.83,10.04,563,3352,3915,Medium Demand
+2011-06-10,Summer,Clear / Partly Cloudy,2011,Working Day,30.96,35.16,60.5,9.42,815,3771,4586,Medium Demand
+2011-06-11,Summer,Clear / Partly Cloudy,2011,Weekend / Holiday,29.72,33.9,65.46,10.37,1729,3237,4966,Medium Demand
+2011-06-12,Summer,Clear / Partly Cloudy,2011,Weekend / Holiday,28.39,32.17,74.79,10.96,1467,2993,4460,Medium Demand
+2011-06-13,Summer,Clear / Partly Cloudy,2011,Working Day,26.04,30.08,49.46,20.46,863,4157,5020,Medium Demand
+2011-06-14,Summer,Clear / Partly Cloudy,2011,Working Day,24.77,29.58,50.71,18.04,727,4164,4891,Medium Demand
+2011-06-15,Summer,Clear / Partly Cloudy,2011,Working Day,25.69,29.39,47.17,11.25,769,4411,5180,Medium Demand
+2011-06-16,Summer,Mist / Cloudy,2011,Working Day,25.76,29.77,68.83,13.83,545,3222,3767,Medium Demand
+2011-06-17,Summer,Clear / Partly Cloudy,2011,Working Day,26.62,30.02,73.58,9.58,863,3981,4844,Medium Demand
+2011-06-18,Summer,Clear / Partly Cloudy,2011,Weekend / Holiday,28.56,32.2,67.04,8.0,1807,3312,5119,Medium Demand
+2011-06-19,Summer,Mist / Cloudy,2011,Weekend / Holiday,28.67,32.29,66.67,6.83,1639,3105,4744,Medium Demand
+2011-06-20,Summer,Mist / Cloudy,2011,Working Day,26.04,29.77,74.62,10.42,699,3311,4010,Medium Demand
+2011-06-21,Fall,Mist / Cloudy,2011,Working Day,27.91,31.88,77.04,11.46,774,4061,4835,Medium Demand
+2011-06-22,Fall,Clear / Partly Cloudy,2011,Working Day,30.07,34.69,70.75,11.54,661,3846,4507,Medium Demand
+2011-06-23,Fall,Mist / Cloudy,2011,Working Day,29.86,34.69,70.33,16.0,746,4044,4790,Medium Demand
+2011-06-24,Fall,Clear / Partly Cloudy,2011,Working Day,29.69,32.83,57.33,14.88,969,4022,4991,Medium Demand
+2011-06-25,Fall,Clear / Partly Cloudy,2011,Weekend / Holiday,28.49,32.17,48.33,14.04,1782,3420,5202,Medium Demand
+2011-06-26,Fall,Clear / Partly Cloudy,2011,Weekend / Holiday,27.88,31.88,51.33,6.33,1920,3385,5305,Medium Demand
+2011-06-27,Fall,Mist / Cloudy,2011,Working Day,27.98,31.85,65.83,7.21,854,3854,4708,Medium Demand
+2011-06-28,Fall,Clear / Partly Cloudy,2011,Working Day,30.51,34.63,63.42,9.67,732,3916,4648,Medium Demand
+2011-06-29,Fall,Clear / Partly Cloudy,2011,Working Day,29.86,32.73,49.79,17.54,848,4377,5225,Medium Demand
+2011-06-30,Fall,Clear / Partly Cloudy,2011,Working Day,28.56,31.85,43.42,12.42,1027,4488,5515,Medium Demand
+2011-07-01,Fall,Clear / Partly Cloudy,2011,Working Day,29.62,32.61,39.62,6.87,1246,4116,5362,Medium Demand
+2011-07-02,Fall,Clear / Partly Cloudy,2011,Weekend / Holiday,30.27,33.37,44.46,7.71,2204,2915,5119,Medium Demand
+2011-07-03,Fall,Mist / Cloudy,2011,Weekend / Holiday,29.38,33.43,68.25,15.33,2282,2367,4649,Medium Demand
+2011-07-04,Fall,Mist / Cloudy,2011,Weekend / Holiday,29.79,33.27,63.79,5.46,3065,2978,6043,High Demand
+2011-07-05,Fall,Clear / Partly Cloudy,2011,Working Day,30.61,34.82,59.04,8.46,1031,3634,4665,Medium Demand
+2011-07-06,Fall,Clear / Partly Cloudy,2011,Working Day,29.52,34.28,74.33,10.04,784,3845,4629,Medium Demand
+2011-07-07,Fall,Clear / Partly Cloudy,2011,Working Day,30.75,34.34,65.12,10.67,754,3838,4592,Medium Demand
+2011-07-08,Fall,Mist / Cloudy,2011,Working Day,29.08,33.52,75.79,15.08,692,3348,4040,Medium Demand
+2011-07-09,Fall,Clear / Partly Cloudy,2011,Weekend / Holiday,30.07,33.21,60.92,11.25,1988,3348,5336,Medium Demand
+2011-07-10,Fall,Clear / Partly Cloudy,2011,Weekend / Holiday,30.65,34.5,57.83,12.29,1743,3138,4881,Medium Demand
+2011-07-11,Fall,Clear / Partly Cloudy,2011,Working Day,31.26,36.49,63.58,18.92,723,3363,4086,Medium Demand
+2011-07-12,Fall,Clear / Partly Cloudy,2011,Working Day,32.56,36.96,55.92,13.42,662,3596,4258,Medium Demand
+2011-07-13,Fall,Clear / Partly Cloudy,2011,Working Day,30.61,34.47,63.17,9.79,748,3594,4342,Medium Demand
+2011-07-14,Fall,Clear / Partly Cloudy,2011,Working Day,27.91,31.76,47.62,16.12,888,4196,5084,Medium Demand
+2011-07-15,Fall,Clear / Partly Cloudy,2011,Working Day,27.2,31.22,59.13,12.25,1318,4220,5538,Medium Demand
+2011-07-16,Fall,Clear / Partly Cloudy,2011,Weekend / Holiday,28.15,31.91,58.5,13.96,2418,3505,5923,Medium Demand
+2011-07-17,Fall,Clear / Partly Cloudy,2011,Weekend / Holiday,29.49,33.49,60.42,16.42,2006,3296,5302,Medium Demand
+2011-07-18,Fall,Clear / Partly Cloudy,2011,Working Day,30.61,35.2,65.12,14.46,841,3617,4458,Medium Demand
+2011-07-19,Fall,Clear / Partly Cloudy,2011,Working Day,31.84,37.37,65.04,8.75,752,3789,4541,Medium Demand
+2011-07-20,Fall,Clear / Partly Cloudy,2011,Working Day,31.5,37.34,70.71,7.63,644,3688,4332,Medium Demand
+2011-07-21,Fall,Mist / Cloudy,2011,Working Day,33.42,41.32,69.12,14.88,632,3152,3784,Medium Demand
+2011-07-22,Fall,Clear / Partly Cloudy,2011,Working Day,34.78,42.04,58.04,8.92,562,2825,3387,Medium Demand
+2011-07-23,Fall,Clear / Partly Cloudy,2011,Weekend / Holiday,34.82,40.21,50.0,8.79,987,2298,3285,Medium Demand
+2011-07-24,Fall,Clear / Partly Cloudy,2011,Weekend / Holiday,34.03,39.74,55.08,11.33,1050,2556,3606,Medium Demand
+2011-07-25,Fall,Clear / Partly Cloudy,2011,Working Day,30.48,36.05,75.71,6.08,568,3272,3840,Medium Demand
+2011-07-26,Fall,Clear / Partly Cloudy,2011,Working Day,31.64,34.85,54.08,13.42,750,3840,4590,Medium Demand
+2011-07-27,Fall,Clear / Partly Cloudy,2011,Working Day,31.78,34.53,40.29,12.29,755,3901,4656,Medium Demand
+2011-07-28,Fall,Clear / Partly Cloudy,2011,Working Day,31.95,36.99,58.33,11.96,606,3784,4390,Medium Demand
+2011-07-29,Fall,Clear / Partly Cloudy,2011,Working Day,34.37,39.3,54.25,11.67,670,3176,3846,Medium Demand
+2011-07-30,Fall,Clear / Partly Cloudy,2011,Weekend / Holiday,32.97,36.43,46.58,11.29,1559,2916,4475,Medium Demand
+2011-07-31,Fall,Clear / Partly Cloudy,2011,Weekend / Holiday,33.04,36.49,48.08,11.04,1524,2778,4302,Medium Demand
+2011-08-01,Fall,Clear / Partly Cloudy,2011,Working Day,31.64,35.16,55.08,10.5,729,3537,4266,Medium Demand
+2011-08-02,Fall,Clear / Partly Cloudy,2011,Working Day,32.12,35.35,49.12,13.79,801,4044,4845,Medium Demand
+2011-08-03,Fall,Mist / Cloudy,2011,Working Day,30.0,34.0,65.75,9.08,467,3107,3574,Medium Demand
+2011-08-04,Fall,Mist / Cloudy,2011,Working Day,29.11,33.24,75.75,13.21,799,3777,4576,Medium Demand
+2011-08-05,Fall,Clear / Partly Cloudy,2011,Working Day,29.14,32.83,63.08,12.37,1023,3843,4866,Medium Demand
+2011-08-06,Fall,Mist / Cloudy,2011,Weekend / Holiday,29.38,33.81,75.5,15.29,1521,2773,4294,Medium Demand
+2011-08-07,Fall,Clear / Partly Cloudy,2011,Weekend / Holiday,30.44,35.76,75.29,13.5,1298,2487,3785,Medium Demand
+2011-08-08,Fall,Clear / Partly Cloudy,2011,Working Day,31.36,35.16,59.21,12.88,846,3480,4326,Medium Demand
+2011-08-09,Fall,Clear / Partly Cloudy,2011,Working Day,31.78,36.21,57.04,10.13,907,3695,4602,Medium Demand
+2011-08-10,Fall,Clear / Partly Cloudy,2011,Working Day,31.43,34.25,42.42,13.42,884,3896,4780,Medium Demand
+2011-08-11,Fall,Clear / Partly Cloudy,2011,Working Day,29.42,32.58,42.38,11.04,812,3980,4792,Medium Demand
+2011-08-12,Fall,Clear / Partly Cloudy,2011,Working Day,29.04,32.7,41.5,8.42,1051,3854,4905,Medium Demand
+2011-08-13,Fall,Mist / Cloudy,2011,Weekend / Holiday,28.12,32.29,72.96,14.17,1504,2646,4150,Medium Demand
+2011-08-14,Fall,Mist / Cloudy,2011,Weekend / Holiday,27.74,31.22,81.75,14.92,1338,2482,3820,Medium Demand
+2011-08-15,Fall,Clear / Partly Cloudy,2011,Working Day,27.3,30.81,71.21,14.0,775,3563,4338,Medium Demand
+2011-08-16,Fall,Clear / Partly Cloudy,2011,Working Day,28.73,32.29,57.83,15.83,721,4004,4725,Medium Demand
+2011-08-17,Fall,Clear / Partly Cloudy,2011,Working Day,29.66,33.33,57.54,9.63,668,4026,4694,Medium Demand
+2011-08-18,Fall,Clear / Partly Cloudy,2011,Working Day,29.18,33.11,65.46,15.62,639,3166,3805,Medium Demand
+2011-08-19,Fall,Mist / Cloudy,2011,Working Day,28.08,31.66,72.29,9.33,797,3356,4153,Medium Demand
+2011-08-20,Fall,Clear / Partly Cloudy,2011,Weekend / Holiday,28.6,32.45,67.42,7.0,1914,3277,5191,Medium Demand
+2011-08-21,Fall,Clear / Partly Cloudy,2011,Weekend / Holiday,29.14,33.78,77.0,16.67,1249,2624,3873,Medium Demand
+2011-08-22,Fall,Clear / Partly Cloudy,2011,Working Day,28.36,31.91,47.0,18.54,833,3925,4758,Medium Demand
+2011-08-23,Fall,Clear / Partly Cloudy,2011,Working Day,26.27,30.3,45.54,9.83,1281,4614,5895,Medium Demand
+2011-08-24,Fall,Clear / Partly Cloudy,2011,Working Day,27.61,31.53,60.5,16.96,949,4181,5130,Medium Demand
+2011-08-25,Fall,Mist / Cloudy,2011,Working Day,28.05,32.29,77.17,14.13,435,3107,3542,Medium Demand
+2011-08-26,Fall,Clear / Partly Cloudy,2011,Working Day,28.7,32.99,76.12,5.63,768,3893,4661,Medium Demand
+2011-08-27,Fall,Mist / Cloudy,2011,Weekend / Holiday,27.88,31.78,85.0,25.17,226,889,1115,Low Demand
+2011-08-28,Fall,Clear / Partly Cloudy,2011,Weekend / Holiday,28.99,32.4,56.18,20.41,1415,2919,4334,Medium Demand
+2011-08-29,Fall,Clear / Partly Cloudy,2011,Working Day,26.1,30.4,55.46,10.71,729,3905,4634,Medium Demand
+2011-08-30,Fall,Clear / Partly Cloudy,2011,Working Day,26.21,29.74,54.83,8.38,775,4429,5204,Medium Demand
+2011-08-31,Fall,Clear / Partly Cloudy,2011,Working Day,26.92,30.56,59.79,5.58,688,4370,5058,Medium Demand
+2011-09-01,Fall,Clear / Partly Cloudy,2011,Working Day,26.86,30.75,63.92,9.5,783,4332,5115,Medium Demand
+2011-09-02,Fall,Mist / Cloudy,2011,Working Day,26.38,30.24,72.71,9.38,875,3852,4727,Medium Demand
+2011-09-03,Fall,Clear / Partly Cloudy,2011,Weekend / Holiday,27.44,31.66,71.67,12.42,1935,2549,4484,Medium Demand
+2011-09-04,Fall,Clear / Partly Cloudy,2011,Weekend / Holiday,29.08,33.27,74.21,13.83,2521,2419,4940,Medium Demand
+2011-09-05,Fall,Mist / Cloudy,2011,Weekend / Holiday,27.61,31.28,79.04,14.25,1236,2115,3351,Medium Demand
+2011-09-06,Fall,Light Snow / Rain,2011,Working Day,22.14,25.76,88.7,23.04,204,2506,2710,Low Demand
+2011-09-07,Fall,Light Snow / Rain,2011,Working Day,24.57,27.21,91.71,6.5,118,1878,1996,Low Demand
+2011-09-08,Fall,Light Snow / Rain,2011,Working Day,25.99,27.77,93.96,12.91,153,1689,1842,Low Demand
+2011-09-09,Fall,Mist / Cloudy,2011,Working Day,26.65,28.95,89.79,8.33,417,3127,3544,Medium Demand
+2011-09-10,Fall,Clear / Partly Cloudy,2011,Weekend / Holiday,27.06,30.4,75.38,10.29,1750,3595,5345,Medium Demand
+2011-09-11,Fall,Clear / Partly Cloudy,2011,Weekend / Holiday,26.79,30.46,71.38,7.71,1633,3413,5046,Medium Demand
+2011-09-12,Fall,Clear / Partly Cloudy,2011,Working Day,26.42,30.11,69.22,5.96,690,4023,4713,Medium Demand
+2011-09-13,Fall,Clear / Partly Cloudy,2011,Working Day,26.68,30.18,71.25,9.5,701,4062,4763,Medium Demand
+2011-09-14,Fall,Clear / Partly Cloudy,2011,Working Day,27.61,31.34,69.71,11.21,647,4138,4785,Medium Demand
+2011-09-15,Fall,Mist / Cloudy,2011,Working Day,23.68,27.68,70.92,18.17,428,3231,3659,Medium Demand
+2011-09-16,Fall,Mist / Cloudy,2011,Working Day,19.24,23.07,59.04,11.0,742,4018,4760,Medium Demand
+2011-09-17,Fall,Mist / Cloudy,2011,Weekend / Holiday,20.16,23.93,71.83,12.71,1434,3077,4511,Medium Demand
+2011-09-18,Fall,Clear / Partly Cloudy,2011,Weekend / Holiday,20.81,24.53,69.5,11.96,1353,2921,4274,Medium Demand
+2011-09-19,Fall,Mist / Cloudy,2011,Working Day,22.52,26.48,69.0,10.17,691,3848,4539,Medium Demand
+2011-09-20,Fall,Mist / Cloudy,2011,Working Day,23.03,26.61,88.12,9.04,438,3203,3641,Medium Demand
+2011-09-21,Fall,Mist / Cloudy,2011,Working Day,24.4,27.53,90.0,6.46,539,3813,4352,Medium Demand
+2011-09-22,Fall,Mist / Cloudy,2011,Working Day,25.76,27.75,90.21,8.58,555,4240,4795,Medium Demand
+2011-09-23,Winter,Mist / Cloudy,2011,Working Day,24.98,26.11,97.25,5.25,258,2137,2395,Low Demand
+2011-09-24,Winter,Mist / Cloudy,2011,Weekend / Holiday,24.87,28.22,86.25,5.25,1776,3647,5423,Medium Demand
+2011-09-25,Winter,Mist / Cloudy,2011,Weekend / Holiday,26.0,28.63,84.5,3.38,1544,3466,5010,Medium Demand
+2011-09-26,Winter,Mist / Cloudy,2011,Working Day,26.62,29.45,84.83,7.42,684,3946,4630,Medium Demand
+2011-09-27,Winter,Mist / Cloudy,2011,Working Day,26.1,28.73,88.54,7.92,477,3643,4120,Medium Demand
+2011-09-28,Winter,Mist / Cloudy,2011,Working Day,26.04,28.76,84.88,9.96,480,3427,3907,Medium Demand
+2011-09-29,Winter,Clear / Partly Cloudy,2011,Working Day,25.28,28.73,69.92,11.58,653,4186,4839,Medium Demand
+2011-09-30,Winter,Clear / Partly Cloudy,2011,Working Day,23.13,27.24,64.75,13.83,830,4372,5202,Medium Demand
+2011-10-01,Winter,Mist / Cloudy,2011,Weekend / Holiday,16.81,20.64,75.38,19.58,480,1949,2429,Low Demand
+2011-10-02,Winter,Mist / Cloudy,2011,Weekend / Holiday,14.62,17.27,79.17,14.87,616,2302,2918,Low Demand
+2011-10-03,Winter,Mist / Cloudy,2011,Working Day,15.75,19.6,76.08,5.58,330,3240,3570,Medium Demand
+2011-10-04,Winter,Clear / Partly Cloudy,2011,Working Day,19.85,23.64,71.0,13.79,486,3970,4456,Medium Demand
+2011-10-05,Winter,Clear / Partly Cloudy,2011,Working Day,22.07,26.36,64.79,11.88,559,4267,4826,Medium Demand
+2011-10-06,Winter,Clear / Partly Cloudy,2011,Working Day,20.26,24.02,62.08,9.04,639,4126,4765,Medium Demand
+2011-10-07,Winter,Clear / Partly Cloudy,2011,Working Day,20.94,25.22,68.42,1.5,949,4036,4985,Medium Demand
+2011-10-08,Winter,Clear / Partly Cloudy,2011,Weekend / Holiday,21.39,25.66,70.12,3.04,2235,3174,5409,Medium Demand
+2011-10-09,Winter,Clear / Partly Cloudy,2011,Weekend / Holiday,22.17,26.2,72.75,4.25,2397,3114,5511,Medium Demand
+2011-10-10,Winter,Clear / Partly Cloudy,2011,Weekend / Holiday,23.4,27.15,73.38,2.83,1514,3603,5117,Medium Demand
+2011-10-11,Winter,Mist / Cloudy,2011,Working Day,23.23,27.3,80.88,9.58,667,3896,4563,Medium Demand
+2011-10-12,Winter,Light Snow / Rain,2011,Working Day,22.28,25.89,90.62,16.63,217,2199,2416,Low Demand
+2011-10-13,Winter,Mist / Cloudy,2011,Working Day,24.16,27.59,89.67,9.5,290,2623,2913,Low Demand
+2011-10-14,Winter,Mist / Cloudy,2011,Working Day,22.58,26.48,71.62,15.0,529,3115,3644,Medium Demand
+2011-10-15,Winter,Clear / Partly Cloudy,2011,Weekend / Holiday,20.77,24.94,48.33,17.29,1899,3318,5217,Medium Demand
+2011-10-16,Winter,Clear / Partly Cloudy,2011,Weekend / Holiday,20.98,25.16,48.67,18.88,1748,3293,5041,Medium Demand
+2011-10-17,Winter,Clear / Partly Cloudy,2011,Working Day,21.9,25.54,57.96,11.75,713,3857,4570,Medium Demand
+2011-10-18,Winter,Mist / Cloudy,2011,Working Day,21.83,26.14,70.17,7.38,637,4111,4748,Medium Demand
+2011-10-19,Winter,Light Snow / Rain,2011,Working Day,22.21,25.69,89.52,16.3,254,2170,2424,Low Demand
+2011-10-20,Winter,Clear / Partly Cloudy,2011,Working Day,19.51,23.33,63.62,28.29,471,3724,4195,Medium Demand
+2011-10-21,Winter,Clear / Partly Cloudy,2011,Working Day,17.53,21.18,57.42,14.83,676,3628,4304,Medium Demand
+2011-10-22,Winter,Clear / Partly Cloudy,2011,Weekend / Holiday,17.32,21.27,62.92,6.21,1499,2809,4308,Medium Demand
+2011-10-23,Winter,Clear / Partly Cloudy,2011,Weekend / Holiday,17.29,21.12,74.12,6.67,1619,2762,4381,Medium Demand
+2011-10-24,Winter,Clear / Partly Cloudy,2011,Working Day,19.0,22.85,77.21,7.96,699,3488,4187,Medium Demand
+2011-10-25,Winter,Clear / Partly Cloudy,2011,Working Day,19.34,23.17,62.29,11.17,695,3992,4687,Medium Demand
+2011-10-26,Winter,Mist / Cloudy,2011,Working Day,19.85,23.64,72.04,9.96,404,3490,3894,Medium Demand
+2011-10-27,Winter,Mist / Cloudy,2011,Working Day,19.27,22.85,81.29,13.25,240,2419,2659,Low Demand
+2011-10-28,Winter,Mist / Cloudy,2011,Working Day,13.56,15.94,58.58,15.38,456,3291,3747,Medium Demand
+2011-10-29,Winter,Light Snow / Rain,2011,Weekend / Holiday,10.42,11.4,88.25,23.54,57,570,627,Low Demand
+2011-10-30,Winter,Clear / Partly Cloudy,2011,Weekend / Holiday,13.09,16.07,62.38,11.83,885,2446,3331,Medium Demand
+2011-10-31,Winter,Clear / Partly Cloudy,2011,Working Day,13.94,17.8,70.33,7.13,362,3307,3669,Medium Demand
+2011-11-01,Winter,Clear / Partly Cloudy,2011,Working Day,16.43,19.85,68.38,9.08,410,3658,4068,Medium Demand
+2011-11-02,Winter,Clear / Partly Cloudy,2011,Working Day,15.48,19.51,71.88,5.5,370,3816,4186,Medium Demand
+2011-11-03,Winter,Clear / Partly Cloudy,2011,Working Day,16.74,20.3,70.21,9.17,318,3656,3974,Medium Demand
+2011-11-04,Winter,Mist / Cloudy,2011,Working Day,16.54,20.17,62.25,18.21,470,3576,4046,Medium Demand
+2011-11-05,Winter,Clear / Partly Cloudy,2011,Weekend / Holiday,13.39,16.19,51.92,12.67,1156,2770,3926,Medium Demand
+2011-11-06,Winter,Clear / Partly Cloudy,2011,Weekend / Holiday,14.28,18.12,73.46,6.17,952,2697,3649,Medium Demand
+2011-11-07,Winter,Clear / Partly Cloudy,2011,Working Day,16.2,20.04,75.88,3.83,373,3662,4035,Medium Demand
+2011-11-08,Winter,Clear / Partly Cloudy,2011,Working Day,16.74,20.61,72.17,4.63,376,3829,4205,Medium Demand
+2011-11-09,Winter,Clear / Partly Cloudy,2011,Working Day,16.4,20.45,75.83,4.17,305,3804,4109,Medium Demand
+2011-11-10,Winter,Mist / Cloudy,2011,Working Day,15.58,18.69,81.33,12.67,190,2743,2933,Low Demand
+2011-11-11,Winter,Clear / Partly Cloudy,2011,Weekend / Holiday,13.29,15.34,44.62,21.08,440,2928,3368,Medium Demand
+2011-11-12,Winter,Clear / Partly Cloudy,2011,Weekend / Holiday,14.62,17.9,55.29,14.21,1275,2792,4067,Medium Demand
+2011-11-13,Winter,Clear / Partly Cloudy,2011,Weekend / Holiday,18.07,21.53,45.83,18.88,1004,2713,3717,Medium Demand
+2011-11-14,Winter,Clear / Partly Cloudy,2011,Working Day,21.73,26.23,58.71,20.54,595,3891,4486,Medium Demand
+2011-11-15,Winter,Mist / Cloudy,2011,Working Day,21.73,25.38,68.88,13.38,449,3746,4195,Medium Demand
+2011-11-16,Winter,Light Snow / Rain,2011,Working Day,18.72,22.6,93.0,9.17,145,1672,1817,Low Demand
+2011-11-17,Winter,Mist / Cloudy,2011,Working Day,14.01,16.16,57.58,20.46,139,2914,3053,Low Demand
+2011-11-18,Winter,Clear / Partly Cloudy,2011,Working Day,11.24,13.64,41.0,11.29,245,3147,3392,Medium Demand
+2011-11-19,Winter,Clear / Partly Cloudy,2011,Weekend / Holiday,13.5,16.22,50.21,15.04,943,2720,3663,Medium Demand
+2011-11-20,Winter,Mist / Cloudy,2011,Weekend / Holiday,19.0,22.85,68.46,12.46,787,2733,3520,Medium Demand
+2011-11-21,Winter,Light Snow / Rain,2011,Working Day,18.35,22.25,91.0,9.25,220,2545,2765,Low Demand
+2011-11-22,Winter,Light Snow / Rain,2011,Working Day,17.08,21.08,96.25,7.96,69,1538,1607,Low Demand
+2011-11-23,Winter,Mist / Cloudy,2011,Working Day,18.07,21.53,75.79,22.5,112,2454,2566,Low Demand
+2011-11-24,Winter,Clear / Partly Cloudy,2011,Weekend / Holiday,15.31,18.62,54.92,11.21,560,935,1495,Low Demand
+2011-11-25,Winter,Clear / Partly Cloudy,2011,Working Day,15.38,19.03,64.38,6.63,1095,1697,2792,Low Demand
+2011-11-26,Winter,Clear / Partly Cloudy,2011,Weekend / Holiday,15.41,19.25,68.17,4.58,1249,1819,3068,Low Demand
+2011-11-27,Winter,Clear / Partly Cloudy,2011,Weekend / Holiday,18.83,22.79,69.83,14.0,810,2261,3071,Low Demand
+2011-11-28,Winter,Clear / Partly Cloudy,2011,Working Day,20.64,24.51,74.3,9.52,253,3614,3867,Medium Demand
+2011-11-29,Winter,Mist / Cloudy,2011,Working Day,18.79,22.57,83.08,17.29,96,2818,2914,Low Demand
+2011-11-30,Winter,Clear / Partly Cloudy,2011,Working Day,13.32,15.56,61.33,18.17,188,3425,3613,Medium Demand
+2011-12-01,Winter,Clear / Partly Cloudy,2011,Working Day,12.81,15.28,52.46,14.75,182,3545,3727,Medium Demand
+2011-12-02,Winter,Clear / Partly Cloudy,2011,Working Day,12.88,16.57,62.58,6.75,268,3672,3940,Medium Demand
+2011-12-03,Winter,Clear / Partly Cloudy,2011,Weekend / Holiday,12.27,15.53,61.29,6.42,706,2908,3614,Medium Demand
+2011-12-04,Winter,Clear / Partly Cloudy,2011,Weekend / Holiday,13.56,17.46,77.58,5.63,634,2851,3485,Medium Demand
+2011-12-05,Winter,Mist / Cloudy,2011,Working Day,15.82,19.7,82.71,4.17,233,3578,3811,Medium Demand
+2011-12-06,Winter,Light Snow / Rain,2011,Working Day,18.96,22.82,94.96,15.58,126,2468,2594,Low Demand
+2011-12-07,Winter,Light Snow / Rain,2011,Working Day,16.81,20.01,97.04,17.83,50,655,705,Low Demand
+2011-12-08,Winter,Clear / Partly Cloudy,2011,Working Day,10.9,12.85,58.0,16.08,150,3172,3322,Medium Demand
+2011-12-09,Winter,Clear / Partly Cloudy,2011,Working Day,11.92,15.88,69.58,5.54,261,3359,3620,Medium Demand
+2011-12-10,Winter,Clear / Partly Cloudy,2011,Weekend / Holiday,11.28,13.32,50.75,15.63,502,2688,3190,Medium Demand
+2011-12-11,Winter,Clear / Partly Cloudy,2011,Weekend / Holiday,9.05,12.66,49.0,4.46,377,2366,2743,Low Demand
+2011-12-12,Winter,Clear / Partly Cloudy,2011,Working Day,9.77,13.51,67.08,4.25,143,3167,3310,Medium Demand
+2011-12-13,Winter,Clear / Partly Cloudy,2011,Working Day,11.58,15.06,59.0,9.42,155,3368,3523,Medium Demand
+2011-12-14,Winter,Mist / Cloudy,2011,Working Day,13.02,16.92,66.38,4.08,178,3562,3740,Medium Demand
+2011-12-15,Winter,Mist / Cloudy,2011,Working Day,17.32,20.61,63.42,17.96,181,3528,3709,Medium Demand
+2011-12-16,Winter,Mist / Cloudy,2011,Working Day,15.38,17.99,50.04,17.46,178,3399,3577,Medium Demand
+2011-12-17,Winter,Mist / Cloudy,2011,Weekend / Holiday,10.59,12.47,56.08,16.29,275,2464,2739,Low Demand
+2011-12-18,Winter,Clear / Partly Cloudy,2011,Weekend / Holiday,9.77,12.28,58.63,11.38,220,2211,2431,Low Demand
+2011-12-19,Winter,Clear / Partly Cloudy,2011,Working Day,11.34,14.05,63.75,11.58,260,3143,3403,Medium Demand
+2011-12-20,Winter,Mist / Cloudy,2011,Working Day,15.82,19.82,59.54,4.13,216,3534,3750,Medium Demand
+2011-12-21,Spring,Mist / Cloudy,2011,Working Day,17.56,21.4,85.83,14.83,107,2553,2660,Low Demand
+2011-12-22,Spring,Mist / Cloudy,2011,Working Day,17.36,21.31,75.75,3.17,227,2841,3068,Low Demand
+2011-12-23,Spring,Clear / Partly Cloudy,2011,Working Day,15.31,18.88,68.62,18.37,163,2046,2209,Low Demand
+2011-12-24,Spring,Clear / Partly Cloudy,2011,Weekend / Holiday,12.4,14.96,54.25,12.75,155,856,1011,Low Demand
+2011-12-25,Spring,Clear / Partly Cloudy,2011,Weekend / Holiday,11.27,14.0,68.13,10.39,303,451,754,Low Demand
+2011-12-26,Spring,Clear / Partly Cloudy,2011,Weekend / Holiday,13.19,15.78,50.7,16.04,430,887,1317,Low Demand
+2011-12-27,Spring,Mist / Cloudy,2011,Working Day,13.32,16.38,76.25,12.63,103,1059,1162,Low Demand
+2011-12-28,Spring,Clear / Partly Cloudy,2011,Working Day,12.26,14.0,50.39,19.7,255,2047,2302,Low Demand
+2011-12-29,Spring,Clear / Partly Cloudy,2011,Working Day,10.18,13.19,57.42,8.0,254,2169,2423,Low Demand
+2011-12-30,Spring,Clear / Partly Cloudy,2011,Working Day,12.78,15.94,63.67,9.0,491,2508,2999,Low Demand
+2011-12-31,Spring,Clear / Partly Cloudy,2011,Weekend / Holiday,16.81,20.71,61.58,14.75,665,1820,2485,Low Demand
+2012-01-01,Spring,Clear / Partly Cloudy,2012,Weekend / Holiday,15.17,18.78,69.25,12.88,686,1608,2294,Low Demand
+2012-01-02,Spring,Clear / Partly Cloudy,2012,Weekend / Holiday,11.19,12.62,38.13,22.09,244,1707,1951,Low Demand
+2012-01-03,Spring,Clear / Partly Cloudy,2012,Working Day,6.15,6.31,44.12,24.5,89,2147,2236,Low Demand
+2012-01-04,Spring,Mist / Cloudy,2012,Working Day,4.41,5.97,41.46,12.37,95,2273,2368,Low Demand
+2012-01-05,Spring,Clear / Partly Cloudy,2012,Working Day,10.9,13.92,52.42,8.71,140,3132,3272,Medium Demand
+2012-01-06,Spring,Clear / Partly Cloudy,2012,Working Day,13.7,17.01,54.21,11.25,307,3791,4098,Medium Demand
+2012-01-07,Spring,Clear / Partly Cloudy,2012,Weekend / Holiday,16.13,19.54,53.17,11.71,1070,3451,4521,Medium Demand
+2012-01-08,Spring,Clear / Partly Cloudy,2012,Weekend / Holiday,13.84,17.01,46.5,12.83,599,2826,3425,Medium Demand
+2012-01-09,Spring,Mist / Cloudy,2012,Working Day,9.19,12.37,70.17,6.63,106,2270,2376,Low Demand
+2012-01-10,Spring,Clear / Partly Cloudy,2012,Working Day,12.66,15.94,64.65,12.57,173,3425,3598,Medium Demand
+2012-01-11,Spring,Mist / Cloudy,2012,Working Day,11.24,14.14,84.75,8.79,92,2085,2177,Low Demand
+2012-01-12,Spring,Mist / Cloudy,2012,Working Day,15.68,19.1,80.29,12.12,269,3828,4097,Medium Demand
+2012-01-13,Spring,Clear / Partly Cloudy,2012,Working Day,11.24,12.47,50.75,25.33,174,3040,3214,Medium Demand
+2012-01-14,Spring,Clear / Partly Cloudy,2012,Weekend / Holiday,7.38,9.15,45.75,12.54,333,2160,2493,Low Demand
+2012-01-15,Spring,Clear / Partly Cloudy,2012,Weekend / Holiday,6.83,8.08,41.92,16.83,284,2027,2311,Low Demand
+2012-01-16,Spring,Clear / Partly Cloudy,2012,Weekend / Holiday,7.79,9.53,52.25,15.5,217,2081,2298,Low Demand
+2012-01-17,Spring,Mist / Cloudy,2012,Working Day,15.29,18.21,71.61,23.39,127,2808,2935,Low Demand
+2012-01-18,Spring,Clear / Partly Cloudy,2012,Working Day,12.44,13.76,44.33,27.83,109,3267,3376,Medium Demand
+2012-01-19,Spring,Clear / Partly Cloudy,2012,Working Day,7.79,9.5,49.75,14.75,130,3162,3292,Medium Demand
+2012-01-20,Spring,Mist / Cloudy,2012,Working Day,8.92,11.05,45.0,13.58,115,3048,3163,Medium Demand
+2012-01-21,Spring,Mist / Cloudy,2012,Weekend / Holiday,7.11,8.74,83.12,14.92,67,1234,1301,Low Demand
+2012-01-22,Spring,Mist / Cloudy,2012,Weekend / Holiday,6.66,8.11,79.62,13.38,196,1781,1977,Low Demand
+2012-01-23,Spring,Mist / Cloudy,2012,Working Day,8.95,12.15,91.12,7.42,145,2287,2432,Low Demand
+2012-01-24,Spring,Clear / Partly Cloudy,2012,Working Day,14.04,17.46,83.58,8.29,439,3900,4339,Medium Demand
+2012-01-25,Spring,Clear / Partly Cloudy,2012,Working Day,12.06,14.74,64.38,10.79,467,3803,4270,Medium Demand
+2012-01-26,Spring,Mist / Cloudy,2012,Working Day,14.01,17.8,76.96,4.92,244,3831,4075,Medium Demand
+2012-01-27,Spring,Mist / Cloudy,2012,Working Day,17.42,20.77,74.12,22.96,269,3187,3456,Medium Demand
+2012-01-28,Spring,Clear / Partly Cloudy,2012,Weekend / Holiday,12.95,16.32,54.33,14.13,775,3248,4023,Medium Demand
+2012-01-29,Spring,Clear / Partly Cloudy,2012,Weekend / Holiday,11.58,13.64,31.13,16.08,558,2685,3243,Medium Demand
+2012-01-30,Spring,Clear / Partly Cloudy,2012,Working Day,11.04,13.13,40.08,14.46,126,3498,3624,Medium Demand
+2012-01-31,Spring,Clear / Partly Cloudy,2012,Working Day,15.99,19.07,41.67,17.54,324,4185,4509,Medium Demand
+2012-02-01,Spring,Clear / Partly Cloudy,2012,Working Day,19.24,23.33,50.79,12.67,304,4275,4579,Medium Demand
+2012-02-02,Spring,Mist / Cloudy,2012,Working Day,16.37,19.95,67.29,12.54,190,3571,3761,Medium Demand
+2012-02-03,Spring,Clear / Partly Cloudy,2012,Working Day,12.85,15.47,52.67,11.96,310,3841,4151,Medium Demand
+2012-02-04,Spring,Mist / Cloudy,2012,Weekend / Holiday,10.83,13.64,77.96,8.17,384,2448,2832,Low Demand
+2012-02-05,Spring,Mist / Cloudy,2012,Weekend / Holiday,10.9,13.23,68.79,11.79,318,2629,2947,Low Demand
+2012-02-06,Spring,Clear / Partly Cloudy,2012,Working Day,11.59,14.82,62.22,10.3,206,3578,3784,Medium Demand
+2012-02-07,Spring,Clear / Partly Cloudy,2012,Working Day,14.52,18.06,49.62,9.87,199,4176,4375,Medium Demand
+2012-02-08,Spring,Mist / Cloudy,2012,Working Day,10.52,13.32,72.29,8.96,109,2693,2802,Low Demand
+2012-02-09,Spring,Clear / Partly Cloudy,2012,Working Day,10.86,13.1,56.21,13.0,163,3667,3830,Medium Demand
+2012-02-10,Spring,Mist / Cloudy,2012,Working Day,11.51,14.68,54.0,7.83,227,3604,3831,Medium Demand
+2012-02-11,Spring,Light Snow / Rain,2012,Weekend / Holiday,9.19,10.54,73.12,19.42,192,1977,2169,Low Demand
+2012-02-12,Spring,Clear / Partly Cloudy,2012,Weekend / Holiday,5.23,5.08,46.46,27.42,73,1456,1529,Low Demand
+2012-02-13,Spring,Clear / Partly Cloudy,2012,Working Day,9.12,11.4,41.12,11.21,94,3328,3422,Medium Demand
+2012-02-14,Spring,Mist / Cloudy,2012,Working Day,13.09,16.7,50.88,9.46,135,3787,3922,Medium Demand
+2012-02-15,Spring,Clear / Partly Cloudy,2012,Working Day,14.28,17.58,53.12,12.17,141,4028,4169,Medium Demand
+2012-02-16,Spring,Mist / Cloudy,2012,Working Day,12.98,16.51,75.29,6.13,74,2931,3005,Low Demand
+2012-02-17,Spring,Clear / Partly Cloudy,2012,Working Day,14.08,17.58,63.46,13.79,349,3805,4154,Medium Demand
+2012-02-18,Spring,Clear / Partly Cloudy,2012,Weekend / Holiday,14.21,17.77,53.46,12.79,1435,2883,4318,Medium Demand
+2012-02-19,Spring,Mist / Cloudy,2012,Weekend / Holiday,11.48,13.29,51.58,16.96,618,2071,2689,Low Demand
+2012-02-20,Spring,Clear / Partly Cloudy,2012,Weekend / Holiday,11.48,13.67,50.78,15.35,502,2627,3129,Low Demand
+2012-02-21,Spring,Clear / Partly Cloudy,2012,Working Day,11.8,14.76,59.43,13.78,163,3614,3777,Medium Demand
+2012-02-22,Spring,Clear / Partly Cloudy,2012,Working Day,16.23,19.63,56.79,15.71,394,4379,4773,Medium Demand
+2012-02-23,Spring,Clear / Partly Cloudy,2012,Working Day,18.62,22.22,55.46,12.79,516,4546,5062,Medium Demand
+2012-02-24,Spring,Mist / Cloudy,2012,Working Day,16.71,20.55,73.75,15.92,246,3241,3487,Medium Demand
+2012-02-25,Spring,Clear / Partly Cloudy,2012,Weekend / Holiday,11.92,12.78,39.58,28.25,317,2415,2732,Low Demand
+2012-02-26,Spring,Clear / Partly Cloudy,2012,Weekend / Holiday,11.45,13.42,41.0,13.75,515,2874,3389,Medium Demand
+2012-02-27,Spring,Clear / Partly Cloudy,2012,Working Day,15.03,17.9,49.08,17.96,253,4069,4322,Medium Demand
+2012-02-28,Spring,Clear / Partly Cloudy,2012,Working Day,14.73,17.68,39.58,12.96,229,4134,4363,Medium Demand
+2012-02-29,Spring,Mist / Cloudy,2012,Working Day,14.12,17.42,80.48,12.0,65,1769,1834,Low Demand
+2012-03-01,Spring,Clear / Partly Cloudy,2012,Working Day,19.92,23.77,61.54,15.21,325,4665,4990,Medium Demand
+2012-03-02,Spring,Mist / Cloudy,2012,Working Day,14.49,17.99,65.71,9.71,246,2948,3194,Medium Demand
+2012-03-03,Spring,Mist / Cloudy,2012,Weekend / Holiday,16.98,20.67,62.12,10.79,956,3110,4066,Medium Demand
+2012-03-04,Spring,Clear / Partly Cloudy,2012,Weekend / Holiday,13.36,15.15,40.33,22.42,710,2713,3423,Medium Demand
+2012-03-05,Spring,Clear / Partly Cloudy,2012,Working Day,9.98,12.06,50.62,15.33,203,3130,3333,Medium Demand
+2012-03-06,Spring,Clear / Partly Cloudy,2012,Working Day,10.59,12.75,45.67,13.46,221,3735,3956,Medium Demand
+2012-03-07,Spring,Clear / Partly Cloudy,2012,Working Day,16.57,19.26,51.33,23.17,432,4484,4916,Medium Demand
+2012-03-08,Spring,Clear / Partly Cloudy,2012,Working Day,21.63,26.23,56.75,29.58,486,4896,5382,Medium Demand
+2012-03-09,Spring,Mist / Cloudy,2012,Working Day,16.84,19.85,40.71,27.79,447,4122,4569,Medium Demand
+2012-03-10,Spring,Clear / Partly Cloudy,2012,Weekend / Holiday,11.79,13.89,35.04,15.13,968,3150,4118,Medium Demand
+2012-03-11,Spring,Clear / Partly Cloudy,2012,Weekend / Holiday,14.83,17.98,47.7,14.91,1658,3253,4911,Medium Demand
+2012-03-12,Spring,Clear / Partly Cloudy,2012,Working Day,19.13,22.98,48.92,13.92,838,4460,5298,Medium Demand
+2012-03-13,Spring,Clear / Partly Cloudy,2012,Working Day,23.16,27.15,61.75,15.88,762,5085,5847,Medium Demand
+2012-03-14,Spring,Clear / Partly Cloudy,2012,Working Day,23.47,27.43,50.71,7.71,997,5315,6312,High Demand
+2012-03-15,Spring,Clear / Partly Cloudy,2012,Working Day,22.86,26.64,57.96,10.04,1005,5187,6192,High Demand
+2012-03-16,Spring,Mist / Cloudy,2012,Working Day,17.87,21.81,84.21,7.58,548,3830,4378,Medium Demand
+2012-03-17,Spring,Mist / Cloudy,2012,Weekend / Holiday,21.08,25.25,75.58,7.42,3155,4681,7836,High Demand
+2012-03-18,Spring,Mist / Cloudy,2012,Weekend / Holiday,19.37,23.2,81.0,8.5,2207,3685,5892,Medium Demand
+2012-03-19,Spring,Clear / Partly Cloudy,2012,Working Day,22.35,26.64,72.88,10.88,982,5171,6153,High Demand
+2012-03-20,Spring,Clear / Partly Cloudy,2012,Working Day,22.99,26.93,80.79,8.13,1051,5042,6093,High Demand
+2012-03-21,Summer,Mist / Cloudy,2012,Working Day,21.8,25.66,82.12,6.0,1122,5108,6230,High Demand
+2012-03-22,Summer,Clear / Partly Cloudy,2012,Working Day,22.72,26.58,83.12,7.88,1334,5537,6871,High Demand
+2012-03-23,Summer,Mist / Cloudy,2012,Working Day,24.67,28.5,69.42,7.79,2469,5893,8362,High Demand
+2012-03-24,Summer,Mist / Cloudy,2012,Weekend / Holiday,20.6,24.34,88.54,12.92,1033,2339,3372,Medium Demand
+2012-03-25,Summer,Mist / Cloudy,2012,Weekend / Holiday,17.94,21.87,88.08,14.79,1532,3464,4996,Medium Demand
+2012-03-26,Summer,Clear / Partly Cloudy,2012,Working Day,18.28,21.94,47.79,25.92,795,4763,5558,Medium Demand
+2012-03-27,Summer,Clear / Partly Cloudy,2012,Working Day,13.26,15.78,29.0,12.54,531,4571,5102,Medium Demand
+2012-03-28,Summer,Clear / Partly Cloudy,2012,Working Day,19.85,23.55,48.12,19.54,674,5024,5698,Medium Demand
+2012-03-29,Summer,Clear / Partly Cloudy,2012,Working Day,20.26,24.12,43.92,21.42,834,5299,6133,High Demand
+2012-03-30,Summer,Mist / Cloudy,2012,Working Day,15.17,18.78,58.08,9.25,796,4663,5459,Medium Demand
+2012-03-31,Summer,Mist / Cloudy,2012,Weekend / Holiday,17.39,21.09,73.83,16.79,2301,3934,6235,High Demand
+2012-04-01,Summer,Mist / Cloudy,2012,Weekend / Holiday,17.46,20.86,67.62,11.54,2347,3694,6041,High Demand
+2012-04-02,Summer,Clear / Partly Cloudy,2012,Working Day,17.79,21.38,50.43,20.91,1208,4728,5936,Medium Demand
+2012-04-03,Summer,Clear / Partly Cloudy,2012,Working Day,19.13,23.07,39.67,6.71,1348,5424,6772,High Demand
+2012-04-04,Summer,Clear / Partly Cloudy,2012,Working Day,22.21,26.67,46.96,12.13,1058,5378,6436,High Demand
+2012-04-05,Summer,Clear / Partly Cloudy,2012,Working Day,17.84,21.56,37.42,14.71,1192,5265,6457,High Demand
+2012-04-06,Summer,Clear / Partly Cloudy,2012,Working Day,16.54,19.54,37.71,20.13,1807,4653,6460,High Demand
+2012-04-07,Summer,Clear / Partly Cloudy,2012,Weekend / Holiday,17.94,21.31,25.42,18.42,3252,3605,6857,High Demand
+2012-04-08,Summer,Clear / Partly Cloudy,2012,Weekend / Holiday,20.5,24.62,27.58,15.58,2230,2939,5169,Medium Demand
+2012-04-09,Summer,Clear / Partly Cloudy,2012,Working Day,20.06,23.83,31.75,24.0,905,4680,5585,Medium Demand
+2012-04-10,Summer,Clear / Partly Cloudy,2012,Working Day,18.31,21.81,43.5,16.71,819,5099,5918,Medium Demand
+2012-04-11,Summer,Clear / Partly Cloudy,2012,Working Day,14.3,16.86,46.96,19.78,482,4380,4862,Medium Demand
+2012-04-12,Summer,Clear / Partly Cloudy,2012,Working Day,16.3,19.38,46.62,19.46,663,4746,5409,Medium Demand
+2012-04-13,Summer,Clear / Partly Cloudy,2012,Working Day,18.14,21.59,40.83,10.42,1252,5146,6398,High Demand
+2012-04-14,Summer,Clear / Partly Cloudy,2012,Weekend / Holiday,20.29,24.4,50.29,12.79,2795,4665,7460,High Demand
+2012-04-15,Summer,Clear / Partly Cloudy,2012,Weekend / Holiday,24.87,28.69,50.79,15.08,2846,4286,7132,High Demand
+2012-04-16,Summer,Clear / Partly Cloudy,2012,Weekend / Holiday,27.23,30.75,56.17,19.08,1198,5172,6370,High Demand
+2012-04-17,Summer,Clear / Partly Cloudy,2012,Working Day,24.94,29.92,39.04,18.33,989,5702,6691,High Demand
+2012-04-18,Summer,Mist / Cloudy,2012,Working Day,19.0,22.85,56.92,11.25,347,4020,4367,Medium Demand
+2012-04-19,Summer,Clear / Partly Cloudy,2012,Working Day,20.43,24.65,61.25,4.42,846,5719,6565,High Demand
+2012-04-20,Summer,Clear / Partly Cloudy,2012,Working Day,21.59,25.79,69.46,10.04,1340,5950,7290,High Demand
+2012-04-21,Summer,Clear / Partly Cloudy,2012,Weekend / Holiday,23.37,27.15,68.29,19.0,2541,4083,6624,High Demand
+2012-04-22,Summer,Light Snow / Rain,2012,Weekend / Holiday,16.26,19.48,83.54,23.08,120,907,1027,Low Demand
+2012-04-23,Summer,Mist / Cloudy,2012,Working Day,13.19,15.06,76.67,20.33,195,3019,3214,Medium Demand
+2012-04-24,Summer,Clear / Partly Cloudy,2012,Working Day,16.95,20.26,45.42,16.71,518,5115,5633,Medium Demand
+2012-04-25,Summer,Clear / Partly Cloudy,2012,Working Day,19.54,23.52,42.79,7.96,655,5541,6196,High Demand
+2012-04-26,Summer,Mist / Cloudy,2012,Working Day,20.43,24.18,75.67,11.83,475,4551,5026,Medium Demand
+2012-04-27,Summer,Clear / Partly Cloudy,2012,Working Day,18.76,22.63,40.08,23.29,1014,5219,6233,High Demand
+2012-04-28,Summer,Mist / Cloudy,2012,Weekend / Holiday,15.44,18.88,48.96,8.71,1120,3100,4220,Medium Demand
+2012-04-29,Summer,Clear / Partly Cloudy,2012,Weekend / Holiday,18.79,22.51,58.71,7.83,2229,4075,6304,High Demand
+2012-04-30,Summer,Mist / Cloudy,2012,Working Day,19.03,22.88,57.0,11.5,665,4907,5572,Medium Demand
+2012-05-01,Summer,Mist / Cloudy,2012,Working Day,25.15,28.85,65.96,10.46,653,5087,5740,Medium Demand
+2012-05-02,Summer,Clear / Partly Cloudy,2012,Working Day,23.13,26.89,79.71,9.25,667,5502,6169,High Demand
+2012-05-03,Summer,Mist / Cloudy,2012,Working Day,22.96,26.86,76.83,8.96,764,5657,6421,High Demand
+2012-05-04,Summer,Clear / Partly Cloudy,2012,Working Day,25.73,29.55,73.54,10.92,1069,5227,6296,High Demand
+2012-05-05,Summer,Mist / Cloudy,2012,Weekend / Holiday,25.49,29.23,75.67,10.25,2496,4387,6883,High Demand
+2012-05-06,Summer,Mist / Cloudy,2012,Weekend / Holiday,23.06,27.34,74.0,10.04,2135,4224,6359,High Demand
+2012-05-07,Summer,Mist / Cloudy,2012,Working Day,22.04,26.36,66.42,15.46,1008,5265,6273,High Demand
+2012-05-08,Summer,Mist / Cloudy,2012,Working Day,23.85,27.87,68.58,19.83,738,4990,5728,Medium Demand
+2012-05-09,Summer,Mist / Cloudy,2012,Working Day,23.58,27.65,74.42,14.5,620,4097,4717,Medium Demand
+2012-05-10,Summer,Clear / Partly Cloudy,2012,Working Day,20.74,24.59,55.21,21.04,1026,5546,6572,High Demand
+2012-05-11,Summer,Clear / Partly Cloudy,2012,Working Day,21.87,26.04,36.04,15.87,1319,5711,7030,High Demand
+2012-05-12,Summer,Clear / Partly Cloudy,2012,Weekend / Holiday,23.13,27.24,48.04,8.25,2622,4807,7429,High Demand
+2012-05-13,Summer,Clear / Partly Cloudy,2012,Weekend / Holiday,25.11,29.26,57.63,15.08,2172,3946,6118,High Demand
+2012-05-14,Summer,Mist / Cloudy,2012,Working Day,23.51,27.5,78.96,14.25,342,2501,2843,Low Demand
+2012-05-15,Summer,Mist / Cloudy,2012,Working Day,25.08,28.82,79.46,9.88,625,4490,5115,Medium Demand
+2012-05-16,Summer,Clear / Partly Cloudy,2012,Working Day,26.1,29.8,69.79,8.21,991,6433,7424,High Demand
+2012-05-17,Summer,Clear / Partly Cloudy,2012,Working Day,24.33,28.63,52.0,15.37,1242,6142,7384,High Demand
+2012-05-18,Summer,Clear / Partly Cloudy,2012,Working Day,23.13,27.56,52.33,9.17,1521,6118,7639,High Demand
+2012-05-19,Summer,Clear / Partly Cloudy,2012,Weekend / Holiday,24.6,28.35,45.62,5.63,3410,4884,8294,High Demand
+2012-05-20,Summer,Clear / Partly Cloudy,2012,Weekend / Holiday,25.45,29.2,53.04,17.04,2704,4425,7129,High Demand
+2012-05-21,Summer,Mist / Cloudy,2012,Working Day,24.53,28.28,81.12,15.62,630,3729,4359,Medium Demand
+2012-05-22,Summer,Mist / Cloudy,2012,Working Day,25.22,29.04,76.58,7.92,819,5254,6073,High Demand
+2012-05-23,Summer,Mist / Cloudy,2012,Working Day,25.49,29.23,77.46,6.83,766,4494,5260,Medium Demand
+2012-05-24,Summer,Clear / Partly Cloudy,2012,Working Day,26.86,30.34,71.67,11.58,1059,5711,6770,High Demand
+2012-05-25,Summer,Clear / Partly Cloudy,2012,Working Day,27.88,31.38,74.71,9.42,1417,5317,6734,High Demand
+2012-05-26,Summer,Clear / Partly Cloudy,2012,Weekend / Holiday,28.39,32.13,73.25,13.33,2855,3681,6536,High Demand
+2012-05-27,Summer,Clear / Partly Cloudy,2012,Weekend / Holiday,28.29,32.07,69.71,14.42,3283,3308,6591,High Demand
+2012-05-28,Summer,Clear / Partly Cloudy,2012,Weekend / Holiday,29.21,33.97,67.62,13.17,2557,3486,6043,High Demand
+2012-05-29,Summer,Clear / Partly Cloudy,2012,Working Day,29.62,33.65,68.46,19.79,880,4863,5743,Medium Demand
+2012-05-30,Summer,Mist / Cloudy,2012,Working Day,26.92,30.56,67.0,9.0,745,6110,6855,High Demand
+2012-05-31,Summer,Clear / Partly Cloudy,2012,Working Day,27.88,31.57,49.29,13.08,1100,6238,7338,High Demand
+2012-06-01,Summer,Mist / Cloudy,2012,Working Day,26.82,30.4,75.54,15.92,533,3594,4127,Medium Demand
+2012-06-02,Summer,Clear / Partly Cloudy,2012,Weekend / Holiday,23.92,28.31,54.92,12.5,2795,5325,8120,High Demand
+2012-06-03,Summer,Clear / Partly Cloudy,2012,Weekend / Holiday,24.7,28.76,49.33,12.33,2494,5147,7641,High Demand
+2012-06-04,Summer,Clear / Partly Cloudy,2012,Working Day,24.5,28.91,48.71,19.08,1071,5927,6998,High Demand
+2012-06-05,Summer,Mist / Cloudy,2012,Working Day,22.17,26.29,61.33,14.04,968,6033,7001,High Demand
+2012-06-06,Summer,Clear / Partly Cloudy,2012,Working Day,22.72,27.11,61.12,5.17,1027,6028,7055,High Demand
+2012-06-07,Summer,Clear / Partly Cloudy,2012,Working Day,24.7,28.47,56.71,10.54,1038,6456,7494,High Demand
+2012-06-08,Summer,Clear / Partly Cloudy,2012,Working Day,26.62,29.89,46.79,11.75,1488,6248,7736,High Demand
+2012-06-09,Summer,Clear / Partly Cloudy,2012,Weekend / Holiday,29.14,32.42,43.71,9.67,2708,4790,7498,High Demand
+2012-06-10,Summer,Clear / Partly Cloudy,2012,Weekend / Holiday,29.79,33.18,53.83,8.96,2224,4374,6598,High Demand
+2012-06-11,Summer,Mist / Cloudy,2012,Working Day,29.55,32.99,58.79,13.92,1017,5647,6664,High Demand
+2012-06-12,Summer,Mist / Cloudy,2012,Working Day,26.79,29.89,83.33,14.37,477,4495,4972,Medium Demand
+2012-06-13,Summer,Clear / Partly Cloudy,2012,Working Day,26.89,30.56,58.21,23.0,1173,6248,7421,High Demand
+2012-06-14,Summer,Clear / Partly Cloudy,2012,Working Day,26.58,31.22,56.96,17.0,1180,6183,7363,High Demand
+2012-06-15,Summer,Clear / Partly Cloudy,2012,Working Day,26.21,29.99,58.96,11.83,1563,6102,7665,High Demand
+2012-06-16,Summer,Clear / Partly Cloudy,2012,Weekend / Holiday,25.9,29.74,50.42,11.17,2963,4739,7702,High Demand
+2012-06-17,Summer,Clear / Partly Cloudy,2012,Weekend / Holiday,24.29,28.6,59.88,9.71,2634,4344,6978,High Demand
+2012-06-18,Summer,Mist / Cloudy,2012,Working Day,23.3,27.24,77.79,11.71,653,4446,5099,Medium Demand
+2012-06-19,Summer,Clear / Partly Cloudy,2012,Working Day,28.22,32.73,69.0,9.92,968,5857,6825,High Demand
+2012-06-20,Summer,Clear / Partly Cloudy,2012,Working Day,32.08,36.05,59.21,7.63,872,5339,6211,High Demand
+2012-06-21,Fall,Clear / Partly Cloudy,2012,Working Day,33.04,37.63,56.79,7.96,778,5127,5905,Medium Demand
+2012-06-22,Fall,Clear / Partly Cloudy,2012,Working Day,31.88,36.21,57.38,12.25,964,4859,5823,Medium Demand
+2012-06-23,Fall,Clear / Partly Cloudy,2012,Weekend / Holiday,30.0,32.64,53.46,12.04,2657,4801,7458,High Demand
+2012-06-24,Fall,Clear / Partly Cloudy,2012,Weekend / Holiday,30.48,33.71,47.92,9.75,2551,4340,6891,High Demand
+2012-06-25,Fall,Clear / Partly Cloudy,2012,Working Day,29.35,32.7,50.42,20.13,1139,5640,6779,High Demand
+2012-06-26,Fall,Clear / Partly Cloudy,2012,Working Day,25.86,29.74,37.33,23.29,1077,6365,7442,High Demand
+2012-06-27,Fall,Clear / Partly Cloudy,2012,Working Day,28.6,32.04,36.0,18.21,1077,6258,7335,High Demand
+2012-06-28,Fall,Clear / Partly Cloudy,2012,Working Day,30.72,33.78,42.25,11.5,921,5958,6879,High Demand
+2012-06-29,Fall,Clear / Partly Cloudy,2012,Working Day,34.2,39.33,48.88,11.08,829,4634,5463,Medium Demand
+2012-06-30,Fall,Clear / Partly Cloudy,2012,Weekend / Holiday,31.36,34.38,60.12,10.79,1455,4232,5687,Medium Demand
+2012-07-01,Fall,Clear / Partly Cloudy,2012,Weekend / Holiday,33.45,37.53,51.88,11.29,1421,4110,5531,Medium Demand
+2012-07-02,Fall,Clear / Partly Cloudy,2012,Working Day,32.05,35.1,44.71,13.08,904,5323,6227,High Demand
+2012-07-03,Fall,Clear / Partly Cloudy,2012,Working Day,32.01,35.13,49.21,8.46,1052,5608,6660,High Demand
+2012-07-04,Fall,Clear / Partly Cloudy,2012,Weekend / Holiday,32.36,36.62,53.87,9.04,2562,4841,7403,High Demand
+2012-07-05,Fall,Clear / Partly Cloudy,2012,Working Day,33.93,38.07,45.79,13.0,1405,4836,6241,High Demand
+2012-07-06,Fall,Clear / Partly Cloudy,2012,Working Day,33.96,37.63,45.08,9.79,1366,4841,6207,High Demand
+2012-07-07,Fall,Clear / Partly Cloudy,2012,Weekend / Holiday,35.33,40.25,49.21,10.96,1448,3392,4840,Medium Demand
+2012-07-08,Fall,Clear / Partly Cloudy,2012,Weekend / Holiday,33.72,39.52,57.38,8.42,1203,3469,4672,Medium Demand
+2012-07-09,Fall,Mist / Cloudy,2012,Working Day,29.14,32.7,68.33,12.13,998,5571,6569,High Demand
+2012-07-10,Fall,Mist / Cloudy,2012,Working Day,29.55,33.24,66.75,10.17,954,5336,6290,High Demand
+2012-07-11,Fall,Clear / Partly Cloudy,2012,Working Day,29.38,32.51,63.33,10.17,975,6289,7264,High Demand
+2012-07-12,Fall,Clear / Partly Cloudy,2012,Working Day,29.35,32.73,52.96,9.83,1032,6414,7446,High Demand
+2012-07-13,Fall,Mist / Cloudy,2012,Working Day,30.0,33.4,48.58,5.42,1511,5988,7499,High Demand
+2012-07-14,Fall,Mist / Cloudy,2012,Weekend / Holiday,28.84,33.3,69.92,9.63,2355,4614,6969,High Demand
+2012-07-15,Fall,Clear / Partly Cloudy,2012,Weekend / Holiday,30.58,35.26,71.79,11.17,1920,4111,6031,High Demand
+2012-07-16,Fall,Clear / Partly Cloudy,2012,Working Day,31.3,36.21,64.5,11.0,1088,5742,6830,High Demand
+2012-07-17,Fall,Clear / Partly Cloudy,2012,Working Day,33.55,37.78,50.58,7.67,921,5865,6786,High Demand
+2012-07-18,Fall,Clear / Partly Cloudy,2012,Working Day,32.53,37.28,57.71,9.21,799,4914,5713,Medium Demand
+2012-07-19,Fall,Clear / Partly Cloudy,2012,Working Day,31.57,35.73,60.04,11.08,888,5703,6591,High Demand
+2012-07-20,Fall,Mist / Cloudy,2012,Working Day,27.3,30.65,84.42,14.0,747,5123,5870,Medium Demand
+2012-07-21,Fall,Light Snow / Rain,2012,Weekend / Holiday,24.43,27.5,86.54,14.29,1264,3195,4459,Medium Demand
+2012-07-22,Fall,Mist / Cloudy,2012,Weekend / Holiday,27.37,31.16,76.25,6.29,2544,4866,7410,High Demand
+2012-07-23,Fall,Clear / Partly Cloudy,2012,Working Day,30.41,34.5,69.42,9.29,1135,5831,6966,High Demand
+2012-07-24,Fall,Clear / Partly Cloudy,2012,Working Day,30.78,35.32,65.5,14.17,1140,6452,7592,High Demand
+2012-07-25,Fall,Clear / Partly Cloudy,2012,Working Day,29.69,32.7,45.0,11.04,1383,6790,8173,High Demand
+2012-07-26,Fall,Clear / Partly Cloudy,2012,Working Day,31.84,36.96,59.67,19.08,1036,5825,6861,High Demand
+2012-07-27,Fall,Clear / Partly Cloudy,2012,Working Day,32.05,36.71,59.46,10.25,1259,5645,6904,High Demand
+2012-07-28,Fall,Clear / Partly Cloudy,2012,Weekend / Holiday,30.99,34.88,61.33,10.54,2234,4451,6685,High Demand
+2012-07-29,Fall,Clear / Partly Cloudy,2012,Weekend / Holiday,29.59,33.4,62.38,11.42,2153,4444,6597,High Demand
+2012-07-30,Fall,Clear / Partly Cloudy,2012,Working Day,29.96,34.25,66.88,10.29,1040,6065,7105,High Demand
+2012-07-31,Fall,Clear / Partly Cloudy,2012,Working Day,29.25,33.14,70.42,11.08,968,6248,7216,High Demand
+2012-08-01,Fall,Clear / Partly Cloudy,2012,Working Day,29.42,33.37,67.75,9.46,1074,6506,7580,High Demand
+2012-08-02,Fall,Clear / Partly Cloudy,2012,Working Day,30.85,35.35,65.96,8.67,983,6278,7261,High Demand
+2012-08-03,Fall,Mist / Cloudy,2012,Working Day,31.4,36.14,64.25,14.46,1328,5847,7175,High Demand
+2012-08-04,Fall,Clear / Partly Cloudy,2012,Weekend / Holiday,32.53,37.56,61.33,17.25,2345,4479,6824,High Demand
+2012-08-05,Fall,Clear / Partly Cloudy,2012,Weekend / Holiday,31.54,36.55,65.25,19.46,1707,3757,5464,Medium Demand
+2012-08-06,Fall,Mist / Cloudy,2012,Working Day,30.85,35.51,65.42,8.67,1233,5780,7013,High Demand
+2012-08-07,Fall,Mist / Cloudy,2012,Working Day,30.17,34.88,70.38,7.83,1278,5995,7273,High Demand
+2012-08-08,Fall,Mist / Cloudy,2012,Working Day,30.75,35.39,67.29,7.42,1263,6271,7534,High Demand
+2012-08-09,Fall,Clear / Partly Cloudy,2012,Working Day,30.99,34.98,62.04,10.46,1196,6090,7286,High Demand
+2012-08-10,Fall,Mist / Cloudy,2012,Working Day,29.35,33.4,71.58,16.0,1065,4721,5786,Medium Demand
+2012-08-11,Fall,Mist / Cloudy,2012,Weekend / Holiday,28.39,31.91,73.29,13.83,2247,4052,6299,High Demand
+2012-08-12,Fall,Clear / Partly Cloudy,2012,Weekend / Holiday,28.73,32.23,53.04,8.21,2182,4362,6544,High Demand
+2012-08-13,Fall,Clear / Partly Cloudy,2012,Working Day,29.55,33.11,54.54,9.13,1207,5676,6883,High Demand
+2012-08-14,Fall,Clear / Partly Cloudy,2012,Working Day,29.79,33.84,68.67,11.33,1128,5656,6784,High Demand
+2012-08-15,Fall,Clear / Partly Cloudy,2012,Working Day,28.97,32.7,61.96,11.37,1198,6149,7347,High Demand
+2012-08-16,Fall,Clear / Partly Cloudy,2012,Working Day,29.49,32.73,51.92,9.5,1338,6267,7605,High Demand
+2012-08-17,Fall,Clear / Partly Cloudy,2012,Working Day,29.66,12.12,57.08,15.5,1483,5665,7148,High Demand
+2012-08-18,Fall,Clear / Partly Cloudy,2012,Weekend / Holiday,27.81,30.9,60.33,11.92,2827,5038,7865,High Demand
+2012-08-19,Fall,Mist / Cloudy,2012,Weekend / Holiday,26.07,30.18,71.17,5.79,1208,3341,4549,Medium Demand
+2012-08-20,Fall,Mist / Cloudy,2012,Working Day,26.07,29.8,73.42,8.71,1026,5504,6530,High Demand
+2012-08-21,Fall,Clear / Partly Cloudy,2012,Working Day,26.62,30.05,67.38,4.88,1081,5925,7006,High Demand
+2012-08-22,Fall,Clear / Partly Cloudy,2012,Working Day,27.37,31.09,67.71,4.71,1094,6281,7375,High Demand
+2012-08-23,Fall,Clear / Partly Cloudy,2012,Working Day,28.53,31.85,63.58,5.67,1363,6402,7765,High Demand
+2012-08-24,Fall,Mist / Cloudy,2012,Working Day,28.8,32.36,61.5,4.83,1325,6257,7582,High Demand
+2012-08-25,Fall,Mist / Cloudy,2012,Weekend / Holiday,27.13,30.93,71.29,16.38,1829,4224,6053,High Demand
+2012-08-26,Fall,Mist / Cloudy,2012,Weekend / Holiday,26.79,29.8,84.58,15.33,1483,3772,5255,Medium Demand
+2012-08-27,Fall,Clear / Partly Cloudy,2012,Working Day,28.84,32.73,73.04,8.63,989,5928,6917,High Demand
+2012-08-28,Fall,Clear / Partly Cloudy,2012,Working Day,29.86,33.3,62.0,12.79,935,6105,7040,High Demand
+2012-08-29,Fall,Clear / Partly Cloudy,2012,Working Day,28.08,31.79,55.21,7.54,1177,6520,7697,High Demand
+2012-08-30,Fall,Clear / Partly Cloudy,2012,Working Day,28.97,32.64,59.04,5.17,1172,6541,7713,High Demand
+2012-08-31,Fall,Clear / Partly Cloudy,2012,Working Day,31.33,34.47,58.75,11.29,1433,5917,7350,High Demand
+2012-09-01,Fall,Mist / Cloudy,2012,Weekend / Holiday,30.89,35.13,63.83,7.58,2352,3788,6140,High Demand
+2012-09-02,Fall,Mist / Cloudy,2012,Weekend / Holiday,28.56,32.45,81.5,4.29,2613,3197,5810,Medium Demand
+2012-09-03,Fall,Clear / Partly Cloudy,2012,Weekend / Holiday,29.01,33.08,79.08,10.13,1965,4069,6034,High Demand
+2012-09-04,Fall,Clear / Partly Cloudy,2012,Working Day,29.76,34.34,75.5,15.83,867,5997,6864,High Demand
+2012-09-05,Fall,Clear / Partly Cloudy,2012,Working Day,30.2,35.45,74.12,12.58,832,6280,7112,High Demand
+2012-09-06,Fall,Mist / Cloudy,2012,Working Day,28.56,32.77,81.04,9.54,611,5592,6203,High Demand
+2012-09-07,Fall,Clear / Partly Cloudy,2012,Working Day,28.84,32.86,73.62,11.5,1045,6459,7504,High Demand
+2012-09-08,Fall,Mist / Cloudy,2012,Weekend / Holiday,27.03,30.56,79.92,18.83,1557,4419,5976,High Demand
+2012-09-09,Fall,Clear / Partly Cloudy,2012,Weekend / Holiday,25.01,28.95,54.75,15.04,2570,5657,8227,High Demand
+2012-09-10,Fall,Clear / Partly Cloudy,2012,Working Day,23.92,28.28,50.38,17.33,1118,6407,7525,High Demand
+2012-09-11,Fall,Clear / Partly Cloudy,2012,Working Day,23.68,27.71,52.0,6.17,1070,6697,7767,High Demand
+2012-09-12,Fall,Clear / Partly Cloudy,2012,Working Day,24.57,28.5,57.71,8.83,1050,6820,7870,High Demand
+2012-09-13,Fall,Clear / Partly Cloudy,2012,Working Day,25.11,28.98,63.71,5.54,1054,6750,7804,High Demand
+2012-09-14,Fall,Clear / Partly Cloudy,2012,Working Day,25.97,29.7,67.25,6.96,1379,6630,8009,High Demand
+2012-09-15,Fall,Clear / Partly Cloudy,2012,Weekend / Holiday,24.94,29.29,50.17,16.58,3160,5554,8714,High Demand
+2012-09-16,Fall,Clear / Partly Cloudy,2012,Weekend / Holiday,23.78,28.16,57.0,6.04,2166,5167,7333,High Demand
+2012-09-17,Fall,Mist / Cloudy,2012,Working Day,23.81,27.65,73.46,10.17,1022,5847,6869,High Demand
+2012-09-18,Fall,Mist / Cloudy,2012,Working Day,25.56,28.25,87.25,23.96,371,3702,4073,Medium Demand
+2012-09-19,Fall,Clear / Partly Cloudy,2012,Working Day,22.65,27.02,53.67,14.42,788,6803,7591,High Demand
+2012-09-20,Fall,Clear / Partly Cloudy,2012,Working Day,22.41,26.61,61.83,7.92,939,6781,7720,High Demand
+2012-09-21,Fall,Clear / Partly Cloudy,2012,Working Day,24.57,28.6,66.88,10.33,1250,6917,8167,High Demand
+2012-09-22,Fall,Clear / Partly Cloudy,2012,Weekend / Holiday,26.65,30.52,64.67,19.0,2512,5883,8395,High Demand
+2012-09-23,Winter,Clear / Partly Cloudy,2012,Weekend / Holiday,21.7,25.95,46.71,14.96,2454,5453,7907,High Demand
+2012-09-24,Winter,Clear / Partly Cloudy,2012,Working Day,21.08,25.13,49.29,9.54,1001,6435,7436,High Demand
+2012-09-25,Winter,Clear / Partly Cloudy,2012,Working Day,22.55,27.21,57.0,15.83,845,6693,7538,High Demand
+2012-09-26,Winter,Clear / Partly Cloudy,2012,Working Day,26.04,29.83,63.08,16.37,787,6946,7733,High Demand
+2012-09-27,Winter,Mist / Cloudy,2012,Working Day,26.65,30.4,69.08,9.0,751,6642,7393,High Demand
+2012-09-28,Winter,Mist / Cloudy,2012,Working Day,25.39,29.29,69.0,11.0,1045,6370,7415,High Demand
+2012-09-29,Winter,Clear / Partly Cloudy,2012,Weekend / Holiday,22.24,26.51,54.29,15.25,2589,5966,8555,High Demand
+2012-09-30,Winter,Clear / Partly Cloudy,2012,Weekend / Holiday,21.59,25.88,58.33,9.04,2015,4874,6889,High Demand
+2012-10-01,Winter,Mist / Cloudy,2012,Working Day,21.35,25.6,64.92,6.08,763,6015,6778,High Demand
+2012-10-02,Winter,Light Snow / Rain,2012,Working Day,24.22,27.12,87.17,7.0,315,4324,4639,Medium Demand
+2012-10-03,Winter,Mist / Cloudy,2012,Working Day,26.96,29.96,79.38,4.46,728,6844,7572,High Demand
+2012-10-04,Winter,Mist / Cloudy,2012,Working Day,26.96,30.4,72.29,7.88,891,6437,7328,High Demand
+2012-10-05,Winter,Clear / Partly Cloudy,2012,Working Day,25.22,29.01,62.75,7.13,1516,6640,8156,High Demand
+2012-10-06,Winter,Clear / Partly Cloudy,2012,Weekend / Holiday,22.72,26.93,66.42,17.96,3031,4934,7965,High Demand
+2012-10-07,Winter,Mist / Cloudy,2012,Weekend / Holiday,17.05,20.99,70.83,9.46,781,2729,3510,Medium Demand
+2012-10-08,Winter,Mist / Cloudy,2012,Weekend / Holiday,15.72,19.38,70.96,12.71,874,4604,5478,Medium Demand
+2012-10-09,Winter,Mist / Cloudy,2012,Working Day,18.31,21.91,76.17,12.75,601,5791,6392,High Demand
+2012-10-10,Winter,Clear / Partly Cloudy,2012,Working Day,21.08,25.16,63.08,12.58,780,6911,7691,High Demand
+2012-10-11,Winter,Clear / Partly Cloudy,2012,Working Day,17.84,21.56,46.33,12.17,834,6736,7570,High Demand
+2012-10-12,Winter,Clear / Partly Cloudy,2012,Working Day,17.94,21.65,53.92,15.75,1060,6222,7282,High Demand
+2012-10-13,Winter,Clear / Partly Cloudy,2012,Weekend / Holiday,16.13,19.57,49.46,9.79,2252,4857,7109,High Demand
+2012-10-14,Winter,Clear / Partly Cloudy,2012,Weekend / Holiday,21.39,25.41,64.04,18.67,2080,4559,6639,High Demand
+2012-10-15,Winter,Mist / Cloudy,2012,Working Day,23.03,26.96,70.75,19.83,760,5115,5875,Medium Demand
+2012-10-16,Winter,Clear / Partly Cloudy,2012,Working Day,19.2,23.04,55.83,12.21,922,6612,7534,High Demand
+2012-10-17,Winter,Clear / Partly Cloudy,2012,Working Day,18.69,22.51,69.29,6.79,979,6482,7461,High Demand
+2012-10-18,Winter,Mist / Cloudy,2012,Working Day,21.42,25.63,72.83,15.87,1008,6501,7509,High Demand
+2012-10-19,Winter,Mist / Cloudy,2012,Working Day,23.1,26.89,81.5,9.04,753,4671,5424,Medium Demand
+2012-10-20,Winter,Clear / Partly Cloudy,2012,Weekend / Holiday,19.85,23.64,57.29,7.87,2806,5284,8090,High Demand
+2012-10-21,Winter,Clear / Partly Cloudy,2012,Weekend / Holiday,19.03,22.82,51.0,11.13,2132,4692,6824,High Demand
+2012-10-22,Winter,Clear / Partly Cloudy,2012,Working Day,19.99,24.15,56.83,5.46,830,6228,7058,High Demand
+2012-10-23,Winter,Clear / Partly Cloudy,2012,Working Day,22.31,26.52,64.17,6.33,841,6625,7466,High Demand
+2012-10-24,Winter,Clear / Partly Cloudy,2012,Working Day,24.09,27.94,63.62,4.88,795,6898,7693,High Demand
+2012-10-25,Winter,Mist / Cloudy,2012,Working Day,22.55,26.48,80.04,8.33,875,6484,7359,High Demand
+2012-10-26,Winter,Mist / Cloudy,2012,Working Day,22.38,26.14,80.71,8.88,1182,6262,7444,High Demand
+2012-10-27,Winter,Mist / Cloudy,2012,Weekend / Holiday,21.73,25.76,72.0,15.79,2643,5209,7852,High Demand
+2012-10-28,Winter,Mist / Cloudy,2012,Weekend / Holiday,19.58,23.39,69.46,26.67,998,3461,4459,Medium Demand
+2012-10-29,Winter,Light Snow / Rain,2012,Working Day,18.04,21.97,88.0,24.0,2,20,22,Low Demand
+2012-10-30,Winter,Mist / Cloudy,2012,Working Day,13.05,15.5,82.55,14.27,87,1009,1096,Low Demand
+2012-10-31,Winter,Mist / Cloudy,2012,Working Day,14.66,18.06,66.67,11.17,419,5147,5566,Medium Demand
+2012-11-01,Winter,Mist / Cloudy,2012,Working Day,15.0,18.5,58.17,10.54,466,5520,5986,High Demand
+2012-11-02,Winter,Clear / Partly Cloudy,2012,Working Day,14.56,17.8,52.21,17.83,618,5229,5847,Medium Demand
+2012-11-03,Winter,Mist / Cloudy,2012,Weekend / Holiday,14.08,16.19,49.12,18.13,1029,4109,5138,Medium Demand
+2012-11-04,Winter,Clear / Partly Cloudy,2012,Weekend / Holiday,13.36,16.48,53.29,12.0,1201,3906,5107,Medium Demand
+2012-11-05,Winter,Clear / Partly Cloudy,2012,Working Day,13.09,15.4,49.42,15.83,378,4881,5259,Medium Demand
+2012-11-06,Winter,Clear / Partly Cloudy,2012,Working Day,11.51,14.08,56.71,11.63,466,5220,5686,Medium Demand
+2012-11-07,Winter,Mist / Cloudy,2012,Working Day,12.13,13.73,54.75,20.38,326,4709,5035,Medium Demand
+2012-11-08,Winter,Clear / Partly Cloudy,2012,Working Day,14.44,17.09,33.35,23.3,340,4975,5315,Medium Demand
+2012-11-09,Winter,Clear / Partly Cloudy,2012,Working Day,14.83,17.77,54.08,14.38,709,5283,5992,High Demand
+2012-11-10,Winter,Clear / Partly Cloudy,2012,Weekend / Holiday,15.96,19.7,64.54,3.88,2090,4446,6536,High Demand
+2012-11-11,Winter,Clear / Partly Cloudy,2012,Weekend / Holiday,17.25,21.09,65.92,8.54,2290,4562,6852,High Demand
+2012-11-12,Winter,Clear / Partly Cloudy,2012,Weekend / Holiday,19.88,23.77,74.17,11.63,1097,5172,6269,High Demand
+2012-11-13,Winter,Mist / Cloudy,2012,Working Day,14.08,16.16,66.29,22.92,327,3767,4094,Medium Demand
+2012-11-14,Winter,Clear / Partly Cloudy,2012,Working Day,11.86,14.08,55.21,13.37,373,5122,5495,Medium Demand
+2012-11-15,Winter,Mist / Cloudy,2012,Working Day,13.19,16.22,62.04,10.25,320,5125,5445,Medium Demand
+2012-11-16,Winter,Clear / Partly Cloudy,2012,Working Day,14.14,17.36,52.46,11.46,484,5214,5698,Medium Demand
+2012-11-17,Winter,Clear / Partly Cloudy,2012,Weekend / Holiday,13.32,16.32,54.54,12.04,1313,4316,5629,Medium Demand
+2012-11-18,Winter,Clear / Partly Cloudy,2012,Weekend / Holiday,14.04,16.89,69.29,15.25,922,3747,4669,Medium Demand
+2012-11-19,Winter,Mist / Cloudy,2012,Working Day,15.61,18.78,62.33,15.75,449,5050,5499,Medium Demand
+2012-11-20,Winter,Mist / Cloudy,2012,Working Day,15.34,19.03,68.5,5.54,534,5100,5634,Medium Demand
+2012-11-21,Winter,Clear / Partly Cloudy,2012,Working Day,14.49,18.24,61.38,6.92,615,4531,5146,Medium Demand
+2012-11-22,Winter,Clear / Partly Cloudy,2012,Weekend / Holiday,13.94,17.52,58.04,3.54,955,1470,2425,Low Demand
+2012-11-23,Winter,Clear / Partly Cloudy,2012,Working Day,15.1,18.94,56.88,9.92,1603,2307,3910,Medium Demand
+2012-11-24,Winter,Clear / Partly Cloudy,2012,Weekend / Holiday,11.41,12.44,40.46,25.25,532,1745,2277,Low Demand
+2012-11-25,Winter,Clear / Partly Cloudy,2012,Weekend / Holiday,10.08,12.88,46.83,10.08,309,2115,2424,Low Demand
+2012-11-26,Winter,Clear / Partly Cloudy,2012,Working Day,12.85,16.95,53.54,3.13,337,4750,5087,Medium Demand
+2012-11-27,Winter,Mist / Cloudy,2012,Working Day,11.96,14.08,78.67,15.92,123,3836,3959,Medium Demand
+2012-11-28,Winter,Clear / Partly Cloudy,2012,Working Day,12.16,14.49,50.62,14.13,198,5062,5260,Medium Demand
+2012-11-29,Winter,Clear / Partly Cloudy,2012,Working Day,11.52,14.92,55.57,7.74,243,5080,5323,Medium Demand
+2012-11-30,Winter,Clear / Partly Cloudy,2012,Working Day,12.23,16.19,64.96,3.92,362,5306,5668,Medium Demand
+2012-12-01,Winter,Mist / Cloudy,2012,Weekend / Holiday,12.23,15.85,80.67,4.0,951,4240,5191,Medium Demand
+2012-12-02,Winter,Mist / Cloudy,2012,Weekend / Holiday,14.25,17.96,82.33,8.33,892,3757,4649,Medium Demand
+2012-12-03,Winter,Clear / Partly Cloudy,2012,Working Day,18.55,22.79,76.75,5.54,555,5679,6234,High Demand
+2012-12-04,Winter,Clear / Partly Cloudy,2012,Working Day,19.51,23.45,73.38,11.67,551,6055,6606,High Demand
+2012-12-05,Winter,Clear / Partly Cloudy,2012,Working Day,17.97,21.4,48.5,21.71,331,5398,5729,Medium Demand
+2012-12-06,Winter,Clear / Partly Cloudy,2012,Working Day,10.49,12.91,50.88,11.71,340,5035,5375,Medium Demand
+2012-12-07,Winter,Mist / Cloudy,2012,Working Day,13.15,16.1,76.42,8.75,349,4659,5008,Medium Demand
+2012-12-08,Winter,Mist / Cloudy,2012,Weekend / Holiday,15.65,19.48,91.12,6.79,1153,4429,5582,Medium Demand
+2012-12-09,Winter,Mist / Cloudy,2012,Weekend / Holiday,15.75,19.51,90.54,10.58,441,2787,3228,Medium Demand
+2012-12-10,Winter,Mist / Cloudy,2012,Working Day,17.87,21.78,92.5,12.75,329,4841,5170,Medium Demand
+2012-12-11,Winter,Mist / Cloudy,2012,Working Day,14.49,16.92,59.67,19.83,282,5219,5501,Medium Demand
+2012-12-12,Winter,Mist / Cloudy,2012,Working Day,12.2,14.87,53.83,10.92,310,5009,5319,Medium Demand
+2012-12-13,Winter,Clear / Partly Cloudy,2012,Working Day,12.13,14.71,48.58,11.67,425,5107,5532,Medium Demand
+2012-12-14,Winter,Clear / Partly Cloudy,2012,Working Day,11.55,14.71,64.29,8.79,429,5182,5611,Medium Demand
+2012-12-15,Winter,Clear / Partly Cloudy,2012,Weekend / Holiday,13.29,16.92,65.04,7.13,767,4280,5047,Medium Demand
+2012-12-16,Winter,Mist / Cloudy,2012,Weekend / Holiday,14.86,18.5,83.88,6.75,538,3248,3786,Medium Demand
+2012-12-17,Winter,Mist / Cloudy,2012,Working Day,16.13,20.08,90.71,6.58,212,4373,4585,Medium Demand
+2012-12-18,Winter,Clear / Partly Cloudy,2012,Working Day,16.84,20.49,66.62,14.83,433,5124,5557,Medium Demand
+2012-12-19,Winter,Clear / Partly Cloudy,2012,Working Day,13.63,17.11,62.54,12.33,333,4934,5267,Medium Demand
+2012-12-20,Winter,Mist / Cloudy,2012,Working Day,13.53,16.76,66.79,8.88,314,3814,4128,Medium Demand
+2012-12-21,Spring,Mist / Cloudy,2012,Working Day,13.39,15.09,55.67,25.08,221,3402,3623,Medium Demand
+2012-12-22,Spring,Clear / Partly Cloudy,2012,Weekend / Holiday,10.9,11.81,44.12,27.29,205,1544,1749,Low Demand
+2012-12-23,Spring,Clear / Partly Cloudy,2012,Weekend / Holiday,10.08,12.97,51.54,8.92,408,1379,1787,Low Demand
+2012-12-24,Spring,Mist / Cloudy,2012,Working Day,9.48,12.94,79.13,5.17,174,746,920,Low Demand
+2012-12-25,Spring,Mist / Cloudy,2012,Weekend / Holiday,11.94,14.72,73.48,11.3,440,573,1013,Low Demand
+2012-12-26,Spring,Light Snow / Rain,2012,Working Day,9.98,11.02,82.33,21.21,9,432,441,Low Demand
+2012-12-27,Spring,Mist / Cloudy,2012,Working Day,10.42,11.33,65.29,23.46,247,1867,2114,Low Demand
+2012-12-28,Spring,Mist / Cloudy,2012,Working Day,10.39,12.75,59.0,10.42,644,2451,3095,Low Demand
+2012-12-29,Spring,Mist / Cloudy,2012,Weekend / Holiday,10.39,12.12,75.29,8.33,159,1182,1341,Low Demand
+2012-12-30,Spring,Clear / Partly Cloudy,2012,Weekend / Holiday,10.49,11.58,48.33,23.5,364,1432,1796,Low Demand
+2012-12-31,Spring,Mist / Cloudy,2012,Working Day,8.85,11.17,57.75,10.37,439,2290,2729,Low Demand

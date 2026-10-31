@@ -1,0 +1,18 @@
+# CATATAN TERKAIT BERKAS url.txt (OPSIONAL):
+# 
+# Berkas url.txt bersifat OPSIONAL sesuai ketentuan Dicoding.
+# Reviewer memeriksa dan menguji tautan yang tertera di url.txt.
+# Jika tautan yang dimasukkan error/tidak aktif, submission akan ditolak pada tahap 'Ketentuan Berkas Pengiriman'.
+# 
+# PANDUAN:
+# 1. Jika Anda HANYA menguji di local:
+#    - JANGAN menyertakan berkas url.txt dengan link dummy/palsu ke dalam submission.zip.
+#    - submission.zip yang telah dibuat otomatis SUDAH TIDAK menyertakan url.txt sehingga aman dari penolakan.
+# 
+# 2. Jika Anda INGIN mendapatkan poin tambahan deploy Streamlit Cloud:
+#    - Unggah folder proyek ke repositori GitHub Anda.
+#    - Buka https://share.streamlit.io lalu deploy aplikasi dashboard/dashboard.py.
+#    - Pastikan aplikasi berjalan normal dan bersifat 'Public'.
+#    - Tuliskan URL hasil deploy di bawah ini (hapus tanda #), lalu masukkan kembali file url.txt ini ke dalam submission.zip:
+#
+# https://<nama-aplikasi-anda>.streamlit.app

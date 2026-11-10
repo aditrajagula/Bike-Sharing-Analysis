@@ -1,40 +1,68 @@
-# Proyek Analisis Data: Bike Sharing Dataset
+# Bike Sharing Analysis & Dashboard
 
-Proyek analisis data dan pembuatan dashboard interaktif menggunakan dataset **Capital Bikeshare** (Washington D.C., periode 2011-2012) untuk memenuhi submission tugas akhir Dicoding: Belajar Analisis Data dengan Python.
+A data analysis and interactive Streamlit dashboard analyzing the **Capital Bikeshare** dataset (Washington, D.C., 2011–2012). Built as the final project for Dicoding's **"Belajar Analisis Data dengan Python"** course.
 
+🔗 **Live Demo:** [bikeshare-analysis.streamlit.app](https://bikeshare-analysis.streamlit.app/)
 
-##  Cara Menjalankan Dashboard di Local
+---
 
-### 1. Buat dan Aktifkan Virtual Environment (Opsional tapi Direkomendasikan)
+## Project Structure
 
-**Di Windows (PowerShell/Command Prompt):**
-```bash
+```text
+Bike-Sharing-Analysis/
+├── dashboard/
+│   ├── dashboard.py         # Streamlit dashboard application
+│   ├── day_clean.csv        # Cleaned daily dataset
+│   └── main_data.csv       # Cleaned hourly dataset
+├── data/
+│   ├── day.csv              # Raw daily data
+│   └── hour.csv             # Raw hourly data
+├── notebook.ipynb           # Data wrangling, EDA & visualization
+├── requirements.txt         # Dependencies
+├── url.txt                  # Deployment link
+└── README.md
+```
+
+---
+
+## How to Run Locally
+
+### 1. Set Up Virtual Environment
+
+**Windows:**
+```powershell
 python -m venv venv
 .\venv\Scripts\activate
 ```
 
-**Di macOS / Linux:**
+**macOS / Linux:**
 ```bash
 python3 -m venv venv
 source venv/bin/activate
 ```
 
-### 2. Instal Seluruh Dependensi
+### 2. Install Dependencies
 
-Jalankan perintah berikut:
 ```bash
 pip install -r requirements.txt
 ```
 
-### 3. Jalankan Aplikasi Streamlit
+### 3. Run Streamlit Dashboard
 
-Dari root direktori submission, jalankan:
 ```bash
 streamlit run dashboard/dashboard.py
 ```
-atau:
-```bash
-python -m streamlit run dashboard/dashboard.py
-```
 
-Dashboard akan otomatis terbuka di browser pada alamat default `http://localhost:8501`.
+The dashboard will open automatically in your browser at `http://localhost:8501`.
+
+---
+
+## Key Insights
+
+* **Season & Weather:** Peak rental activity occurs in **Fall** (~5,644 rentals/day) and under **Clear** weather (~4,877 rentals/day). Adverse rain/snow reduces rentals to ~1,803 units/day.
+* **Hourly Patterns:**
+  * **Working Days:** Pronounced rush-hour peaks at **08:00 AM** and **05:00–06:00 PM**, dominated by registered commuters (>85%).
+  * **Weekends/Holidays:** Recreational demand peaks in the afternoon (**12:00–04:00 PM**) with higher casual rider volume.
+* **Recommendations:** Schedule fleet maintenance during low-demand winter/rainy periods, rebalance station bikes before commute peaks, and target casual riders with membership promotions on weekends.
+
+---
